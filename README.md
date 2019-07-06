@@ -14,6 +14,9 @@ Link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016/
 File: Tax Revenue by country
 Link: https://data.oecd.org/tax/tax-revenue.htm
 
+Folder: Ease of Business
+Link: https://www.doingbusiness.org/en/custom-query
+
 
 
 
