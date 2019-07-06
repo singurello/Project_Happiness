@@ -20,6 +20,7 @@ Link: https://www.doingbusiness.org/en/custom-query
 File: Intentional Homicides
 Link: https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?
 
-
+File: Education Index
+Link: http://hdr.undp.org/en/data#
 
 
