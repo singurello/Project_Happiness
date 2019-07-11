@@ -1,0 +1,4774 @@
+Country,Year,Education Index
+ Afghanistan,1990,0.122
+ Afghanistan,1991,0.133
+ Afghanistan,1992,0.145
+ Afghanistan,1993,0.156
+ Afghanistan,1994,0.168
+ Afghanistan,1995,0.179
+ Afghanistan,1996,0.19
+ Afghanistan,1997,0.20199999999999999
+ Afghanistan,1998,0.213
+ Afghanistan,1999,0.22399999999999998
+ Afghanistan,2000,0.235
+ Afghanistan,2001,0.247
+ Afghanistan,2002,0.259
+ Afghanistan,2003,0.271
+ Afghanistan,2004,0.302
+ Afghanistan,2005,0.312
+ Afghanistan,2006,0.324
+ Afghanistan,2007,0.336
+ Afghanistan,2008,0.34700000000000003
+ Afghanistan,2009,0.359
+ Afghanistan,2010,0.371
+ Afghanistan,2011,0.382
+ Afghanistan,2012,0.39
+ Afghanistan,2013,0.39799999999999996
+ Afghanistan,2014,0.406
+ Afghanistan,2015,0.41
+ Afghanistan,2016,0.41
+ Afghanistan,2017,0.415
+ Albania,1990,0.584
+ Albania,1991,0.589
+ Albania,1992,0.5579999999999999
+ Albania,1993,0.5429999999999999
+ Albania,1994,0.542
+ Albania,1995,0.551
+ Albania,1996,0.5579999999999999
+ Albania,1997,0.5710000000000001
+ Albania,1998,0.58
+ Albania,1999,0.586
+ Albania,2000,0.588
+ Albania,2001,0.589
+ Albania,2002,0.598
+ Albania,2003,0.605
+ Albania,2004,0.606
+ Albania,2005,0.623
+ Albania,2006,0.629
+ Albania,2007,0.642
+ Albania,2008,0.6459999999999999
+ Albania,2009,0.652
+ Albania,2010,0.6729999999999999
+ Albania,2011,0.693
+ Albania,2012,0.73
+ Albania,2013,0.732
+ Albania,2014,0.733
+ Albania,2015,0.733
+ Albania,2016,0.742
+ Albania,2017,0.745
+ Algeria,1990,0.385
+ Algeria,1991,0.395
+ Algeria,1992,0.405
+ Algeria,1993,0.414
+ Algeria,1994,0.424
+ Algeria,1995,0.431
+ Algeria,1996,0.44299999999999995
+ Algeria,1997,0.45799999999999996
+ Algeria,1998,0.473
+ Algeria,1999,0.48700000000000004
+ Algeria,2000,0.5
+ Algeria,2001,0.513
+ Algeria,2002,0.529
+ Algeria,2003,0.542
+ Algeria,2004,0.557
+ Algeria,2005,0.57
+ Algeria,2006,0.5770000000000001
+ Algeria,2007,0.588
+ Algeria,2008,0.588
+ Algeria,2009,0.608
+ Algeria,2010,0.626
+ Algeria,2011,0.644
+ Algeria,2012,0.652
+ Algeria,2013,0.66
+ Algeria,2014,0.6609999999999999
+ Algeria,2015,0.662
+ Algeria,2016,0.6629999999999999
+ Algeria,2017,0.664
+ Andorra,2000,0.524
+ Andorra,2001,0.5379999999999999
+ Andorra,2002,0.5589999999999999
+ Andorra,2003,0.64
+ Andorra,2004,0.649
+ Andorra,2005,0.626
+ Andorra,2006,0.6459999999999999
+ Andorra,2007,0.647
+ Andorra,2008,0.6609999999999999
+ Andorra,2009,0.6609999999999999
+ Andorra,2010,0.662
+ Andorra,2011,0.6629999999999999
+ Andorra,2012,0.715
+ Andorra,2013,0.715
+ Andorra,2014,0.716
+ Andorra,2015,0.715
+ Andorra,2016,0.7140000000000001
+ Andorra,2017,0.7140000000000001
+ Angola,1999,0.276
+ Angola,2000,0.28800000000000003
+ Angola,2001,0.3
+ Angola,2002,0.312
+ Angola,2003,0.324
+ Angola,2004,0.336
+ Angola,2005,0.348
+ Angola,2006,0.36200000000000004
+ Angola,2007,0.376
+ Angola,2008,0.39
+ Angola,2009,0.40399999999999997
+ Angola,2010,0.39799999999999996
+ Angola,2011,0.423
+ Angola,2012,0.435
+ Angola,2013,0.447
+ Angola,2014,0.46
+ Angola,2015,0.47200000000000003
+ Angola,2016,0.48700000000000004
+ Angola,2017,0.498
+ Antigua and Barbuda,2005,0.6729999999999999
+ Antigua and Barbuda,2006,0.675
+ Antigua and Barbuda,2007,0.6759999999999999
+ Antigua and Barbuda,2008,0.674
+ Antigua and Barbuda,2009,0.672
+ Antigua and Barbuda,2010,0.667
+ Antigua and Barbuda,2011,0.659
+ Antigua and Barbuda,2012,0.6629999999999999
+ Antigua and Barbuda,2013,0.669
+ Antigua and Barbuda,2014,0.669
+ Antigua and Barbuda,2015,0.6759999999999999
+ Antigua and Barbuda,2016,0.6759999999999999
+ Antigua and Barbuda,2017,0.6759999999999999
+ Argentina,1990,0.628
+ Argentina,1991,0.632
+ Argentina,1992,0.634
+ Argentina,1993,0.636
+ Argentina,1994,0.639
+ Argentina,1995,0.648
+ Argentina,1996,0.659
+ Argentina,1997,0.67
+ Argentina,1998,0.6809999999999999
+ Argentina,1999,0.715
+ Argentina,2000,0.736
+ Argentina,2001,0.7559999999999999
+ Argentina,2002,0.762
+ Argentina,2003,0.7609999999999999
+ Argentina,2004,0.76
+ Argentina,2005,0.7509999999999999
+ Argentina,2006,0.752
+ Argentina,2007,0.7509999999999999
+ Argentina,2008,0.753
+ Argentina,2009,0.775
+ Argentina,2010,0.802
+ Argentina,2011,0.807
+ Argentina,2012,0.805
+ Argentina,2013,0.804
+ Argentina,2014,0.8079999999999999
+ Argentina,2015,0.812
+ Argentina,2016,0.8140000000000001
+ Argentina,2017,0.816
+ Armenia,1990,0.634
+ Armenia,1991,0.637
+ Armenia,1992,0.636
+ Armenia,1993,0.642
+ Armenia,1994,0.636
+ Armenia,1995,0.632
+ Armenia,1996,0.628
+ Armenia,1997,0.6409999999999999
+ Armenia,1998,0.6629999999999999
+ Armenia,1999,0.67
+ Armenia,2000,0.667
+ Armenia,2001,0.657
+ Armenia,2002,0.66
+ Armenia,2003,0.662
+ Armenia,2004,0.664
+ Armenia,2005,0.675
+ Armenia,2006,0.69
+ Armenia,2007,0.7070000000000001
+ Armenia,2008,0.7120000000000001
+ Armenia,2009,0.7290000000000001
+ Armenia,2010,0.731
+ Armenia,2011,0.732
+ Armenia,2012,0.735
+ Armenia,2013,0.7390000000000001
+ Armenia,2014,0.742
+ Armenia,2015,0.746
+ Armenia,2016,0.7490000000000001
+ Armenia,2017,0.7490000000000001
+ Australia,1990,0.873
+ Australia,1991,0.8740000000000001
+ Australia,1992,0.8740000000000001
+ Australia,1993,0.875
+ Australia,1994,0.875
+ Australia,1995,0.894
+ Australia,1996,0.895
+ Australia,1997,0.895
+ Australia,1998,0.895
+ Australia,1999,0.895
+ Australia,2000,0.895
+ Australia,2001,0.8959999999999999
+ Australia,2002,0.895
+ Australia,2003,0.893
+ Australia,2004,0.892
+ Australia,2005,0.892
+ Australia,2006,0.895
+ Australia,2007,0.9009999999999999
+ Australia,2008,0.9109999999999999
+ Australia,2009,0.909
+ Australia,2010,0.9129999999999999
+ Australia,2011,0.9159999999999999
+ Australia,2012,0.919
+ Australia,2013,0.9209999999999999
+ Australia,2014,0.924
+ Australia,2015,0.9259999999999999
+ Australia,2016,0.929
+ Australia,2017,0.929
+ Austria,1990,0.6759999999999999
+ Austria,1991,0.6829999999999999
+ Austria,1992,0.6920000000000001
+ Austria,1993,0.6940000000000001
+ Austria,1994,0.705
+ Austria,1995,0.7090000000000001
+ Austria,1996,0.7120000000000001
+ Austria,1997,0.715
+ Austria,1998,0.736
+ Austria,1999,0.727
+ Austria,2000,0.731
+ Austria,2001,0.754
+ Austria,2002,0.721
+ Austria,2003,0.728
+ Austria,2004,0.74
+ Austria,2005,0.7490000000000001
+ Austria,2006,0.759
+ Austria,2007,0.8059999999999999
+ Austria,2008,0.809
+ Austria,2009,0.8190000000000001
+ Austria,2010,0.8370000000000001
+ Austria,2011,0.838
+ Austria,2012,0.841
+ Austria,2013,0.833
+ Austria,2014,0.8440000000000001
+ Austria,2015,0.847
+ Austria,2016,0.852
+ Austria,2017,0.852
+ Azerbaijan,1995,0.618
+ Azerbaijan,1996,0.614
+ Azerbaijan,1997,0.616
+ Azerbaijan,1998,0.625
+ Azerbaijan,1999,0.633
+ Azerbaijan,2000,0.64
+ Azerbaijan,2001,0.647
+ Azerbaijan,2002,0.653
+ Azerbaijan,2003,0.66
+ Azerbaijan,2004,0.6659999999999999
+ Azerbaijan,2005,0.652
+ Azerbaijan,2006,0.68
+ Azerbaijan,2007,0.662
+ Azerbaijan,2008,0.662
+ Azerbaijan,2009,0.6829999999999999
+ Azerbaijan,2010,0.6809999999999999
+ Azerbaijan,2011,0.684
+ Azerbaijan,2012,0.6890000000000001
+ Azerbaijan,2013,0.698
+ Azerbaijan,2014,0.7090000000000001
+ Azerbaijan,2015,0.7090000000000001
+ Azerbaijan,2016,0.7090000000000001
+ Azerbaijan,2017,0.7090000000000001
+ Bahamas,2000,0.7
+ Bahamas,2001,0.7020000000000001
+ Bahamas,2002,0.7040000000000001
+ Bahamas,2003,0.706
+ Bahamas,2004,0.708
+ Bahamas,2005,0.71
+ Bahamas,2006,0.7120000000000001
+ Bahamas,2007,0.7140000000000001
+ Bahamas,2008,0.7140000000000001
+ Bahamas,2009,0.713
+ Bahamas,2010,0.716
+ Bahamas,2011,0.723
+ Bahamas,2012,0.726
+ Bahamas,2013,0.726
+ Bahamas,2014,0.726
+ Bahamas,2015,0.726
+ Bahamas,2016,0.726
+ Bahamas,2017,0.726
+ Bahrain,1990,0.574
+ Bahrain,1991,0.586
+ Bahrain,1992,0.586
+ Bahrain,1993,0.599
+ Bahrain,1994,0.609
+ Bahrain,1995,0.619
+ Bahrain,1996,0.624
+ Bahrain,1997,0.628
+ Bahrain,1998,0.632
+ Bahrain,1999,0.635
+ Bahrain,2000,0.643
+ Bahrain,2001,0.645
+ Bahrain,2002,0.6459999999999999
+ Bahrain,2003,0.6459999999999999
+ Bahrain,2004,0.6409999999999999
+ Bahrain,2005,0.637
+ Bahrain,2006,0.64
+ Bahrain,2007,0.644
+ Bahrain,2008,0.647
+ Bahrain,2009,0.6509999999999999
+ Bahrain,2010,0.654
+ Bahrain,2011,0.664
+ Bahrain,2012,0.664
+ Bahrain,2013,0.674
+ Bahrain,2014,0.685
+ Bahrain,2015,0.723
+ Bahrain,2016,0.758
+ Bahrain,2017,0.758
+ Bangladesh,1990,0.251
+ Bangladesh,1991,0.26
+ Bangladesh,1992,0.268
+ Bangladesh,1993,0.276
+ Bangladesh,1994,0.284
+ Bangladesh,1995,0.292
+ Bangladesh,1996,0.303
+ Bangladesh,1997,0.313
+ Bangladesh,1998,0.324
+ Bangladesh,1999,0.33399999999999996
+ Bangladesh,2000,0.344
+ Bangladesh,2001,0.355
+ Bangladesh,2002,0.36200000000000004
+ Bangladesh,2003,0.37
+ Bangladesh,2004,0.37799999999999995
+ Bangladesh,2005,0.385
+ Bangladesh,2006,0.391
+ Bangladesh,2007,0.395
+ Bangladesh,2008,0.391
+ Bangladesh,2009,0.409
+ Bangladesh,2010,0.425
+ Bangladesh,2011,0.442
+ Bangladesh,2012,0.45399999999999996
+ Bangladesh,2013,0.465
+ Bangladesh,2014,0.47700000000000004
+ Bangladesh,2015,0.488
+ Bangladesh,2016,0.49
+ Bangladesh,2017,0.508
+ Barbados,1990,0.625
+ Barbados,1991,0.632
+ Barbados,1992,0.639
+ Barbados,1993,0.6459999999999999
+ Barbados,1994,0.653
+ Barbados,1995,0.66
+ Barbados,1996,0.665
+ Barbados,1997,0.669
+ Barbados,1998,0.66
+ Barbados,1999,0.6779999999999999
+ Barbados,2000,0.69
+ Barbados,2001,0.69
+ Barbados,2002,0.6970000000000001
+ Barbados,2003,0.7040000000000001
+ Barbados,2004,0.711
+ Barbados,2005,0.718
+ Barbados,2006,0.725
+ Barbados,2007,0.732
+ Barbados,2008,0.742
+ Barbados,2009,0.7509999999999999
+ Barbados,2010,0.742
+ Barbados,2011,0.755
+ Barbados,2012,0.7759999999999999
+ Barbados,2013,0.777
+ Barbados,2014,0.777
+ Barbados,2015,0.777
+ Barbados,2016,0.777
+ Barbados,2017,0.777
+ Belarus,1995,0.63
+ Belarus,1996,0.643
+ Belarus,1997,0.648
+ Belarus,1998,0.649
+ Belarus,1999,0.6579999999999999
+ Belarus,2000,0.6679999999999999
+ Belarus,2001,0.677
+ Belarus,2002,0.687
+ Belarus,2003,0.696
+ Belarus,2004,0.706
+ Belarus,2005,0.716
+ Belarus,2006,0.745
+ Belarus,2007,0.774
+ Belarus,2008,0.804
+ Belarus,2009,0.828
+ Belarus,2010,0.8290000000000001
+ Belarus,2011,0.833
+ Belarus,2012,0.836
+ Belarus,2013,0.835
+ Belarus,2014,0.835
+ Belarus,2015,0.836
+ Belarus,2016,0.838
+ Belarus,2017,0.838
+ Belgium,1990,0.705
+ Belgium,1991,0.708
+ Belgium,1992,0.745
+ Belgium,1993,0.7809999999999999
+ Belgium,1994,0.7909999999999999
+ Belgium,1995,0.804
+ Belgium,1996,0.8140000000000001
+ Belgium,1997,0.82
+ Belgium,1998,0.8270000000000001
+ Belgium,1999,0.825
+ Belgium,2000,0.833
+ Belgium,2001,0.838
+ Belgium,2002,0.8420000000000001
+ Belgium,2003,0.846
+ Belgium,2004,0.8490000000000001
+ Belgium,2005,0.856
+ Belgium,2006,0.8690000000000001
+ Belgium,2007,0.871
+ Belgium,2008,0.865
+ Belgium,2009,0.87
+ Belgium,2010,0.871
+ Belgium,2011,0.873
+ Belgium,2012,0.8740000000000001
+ Belgium,2013,0.88
+ Belgium,2014,0.883
+ Belgium,2015,0.89
+ Belgium,2016,0.893
+ Belgium,2017,0.893
+ Belize,1990,0.573
+ Belize,1991,0.5820000000000001
+ Belize,1992,0.591
+ Belize,1993,0.6
+ Belize,1994,0.609
+ Belize,1995,0.617
+ Belize,1996,0.627
+ Belize,1997,0.636
+ Belize,1998,0.645
+ Belize,1999,0.654
+ Belize,2000,0.6629999999999999
+ Belize,2001,0.6679999999999999
+ Belize,2002,0.6779999999999999
+ Belize,2003,0.6890000000000001
+ Belize,2004,0.6990000000000001
+ Belize,2005,0.685
+ Belize,2006,0.701
+ Belize,2007,0.701
+ Belize,2008,0.7
+ Belize,2009,0.6940000000000001
+ Belize,2010,0.695
+ Belize,2011,0.6970000000000001
+ Belize,2012,0.708
+ Belize,2013,0.7040000000000001
+ Belize,2014,0.7040000000000001
+ Belize,2015,0.7040000000000001
+ Belize,2016,0.705
+ Belize,2017,0.705
+ Benin,1990,0.201
+ Benin,1991,0.20800000000000002
+ Benin,1992,0.215
+ Benin,1993,0.222
+ Benin,1994,0.228
+ Benin,1995,0.235
+ Benin,1996,0.24100000000000002
+ Benin,1997,0.248
+ Benin,1998,0.254
+ Benin,1999,0.262
+ Benin,2000,0.273
+ Benin,2001,0.294
+ Benin,2002,0.31
+ Benin,2003,0.321
+ Benin,2004,0.33299999999999996
+ Benin,2005,0.344
+ Benin,2006,0.355
+ Benin,2007,0.366
+ Benin,2008,0.377
+ Benin,2009,0.389
+ Benin,2010,0.4
+ Benin,2011,0.41100000000000003
+ Benin,2012,0.433
+ Benin,2013,0.45399999999999996
+ Benin,2014,0.46
+ Benin,2015,0.466
+ Benin,2016,0.47100000000000003
+ Benin,2017,0.47100000000000003
+ Bhutan,2005,0.335
+ Bhutan,2006,0.34700000000000003
+ Bhutan,2007,0.358
+ Bhutan,2008,0.369
+ Bhutan,2009,0.384
+ Bhutan,2010,0.397
+ Bhutan,2011,0.408
+ Bhutan,2012,0.424
+ Bhutan,2013,0.429
+ Bhutan,2014,0.44299999999999995
+ Bhutan,2015,0.445
+ Bhutan,2016,0.446
+ Bhutan,2017,0.445
+ Bolivia (Plurinational State of),1990,0.528
+ Bolivia (Plurinational State of),1991,0.537
+ Bolivia (Plurinational State of),1992,0.546
+ Bolivia (Plurinational State of),1993,0.555
+ Bolivia (Plurinational State of),1994,0.565
+ Bolivia (Plurinational State of),1995,0.574
+ Bolivia (Plurinational State of),1996,0.581
+ Bolivia (Plurinational State of),1997,0.574
+ Bolivia (Plurinational State of),1998,0.594
+ Bolivia (Plurinational State of),1999,0.616
+ Bolivia (Plurinational State of),2000,0.63
+ Bolivia (Plurinational State of),2001,0.631
+ Bolivia (Plurinational State of),2002,0.6409999999999999
+ Bolivia (Plurinational State of),2003,0.644
+ Bolivia (Plurinational State of),2004,0.637
+ Bolivia (Plurinational State of),2005,0.631
+ Bolivia (Plurinational State of),2006,0.635
+ Bolivia (Plurinational State of),2007,0.624
+ Bolivia (Plurinational State of),2008,0.636
+ Bolivia (Plurinational State of),2009,0.647
+ Bolivia (Plurinational State of),2010,0.6409999999999999
+ Bolivia (Plurinational State of),2011,0.649
+ Bolivia (Plurinational State of),2012,0.659
+ Bolivia (Plurinational State of),2013,0.6629999999999999
+ Bolivia (Plurinational State of),2014,0.667
+ Bolivia (Plurinational State of),2015,0.672
+ Bolivia (Plurinational State of),2016,0.6829999999999999
+ Bolivia (Plurinational State of),2017,0.687
+ Bosnia and Herzegovina,2000,0.557
+ Bosnia and Herzegovina,2001,0.565
+ Bosnia and Herzegovina,2002,0.574
+ Bosnia and Herzegovina,2003,0.5820000000000001
+ Bosnia and Herzegovina,2004,0.59
+ Bosnia and Herzegovina,2005,0.599
+ Bosnia and Herzegovina,2006,0.607
+ Bosnia and Herzegovina,2007,0.615
+ Bosnia and Herzegovina,2008,0.623
+ Bosnia and Herzegovina,2009,0.625
+ Bosnia and Herzegovina,2010,0.608
+ Bosnia and Herzegovina,2011,0.626
+ Bosnia and Herzegovina,2012,0.672
+ Bosnia and Herzegovina,2013,0.6859999999999999
+ Bosnia and Herzegovina,2014,0.6990000000000001
+ Bosnia and Herzegovina,2015,0.695
+ Bosnia and Herzegovina,2016,0.718
+ Bosnia and Herzegovina,2017,0.718
+ Botswana,1990,0.461
+ Botswana,1991,0.478
+ Botswana,1992,0.486
+ Botswana,1993,0.493
+ Botswana,1994,0.499
+ Botswana,1995,0.519
+ Botswana,1996,0.531
+ Botswana,1997,0.542
+ Botswana,1998,0.5539999999999999
+ Botswana,1999,0.5720000000000001
+ Botswana,2000,0.583
+ Botswana,2001,0.59
+ Botswana,2002,0.59
+ Botswana,2003,0.596
+ Botswana,2004,0.601
+ Botswana,2005,0.606
+ Botswana,2006,0.615
+ Botswana,2007,0.619
+ Botswana,2008,0.626
+ Botswana,2009,0.633
+ Botswana,2010,0.64
+ Botswana,2011,0.6459999999999999
+ Botswana,2012,0.6509999999999999
+ Botswana,2013,0.654
+ Botswana,2014,0.6559999999999999
+ Botswana,2015,0.6579999999999999
+ Botswana,2016,0.659
+ Botswana,2017,0.659
+ Brazil,1990,0.46299999999999997
+ Brazil,1991,0.475
+ Brazil,1992,0.48700000000000004
+ Brazil,1993,0.499
+ Brazil,1994,0.511
+ Brazil,1995,0.523
+ Brazil,1996,0.535
+ Brazil,1997,0.547
+ Brazil,1998,0.5589999999999999
+ Brazil,1999,0.5720000000000001
+ Brazil,2000,0.584
+ Brazil,2001,0.597
+ Brazil,2002,0.61
+ Brazil,2003,0.595
+ Brazil,2004,0.593
+ Brazil,2005,0.593
+ Brazil,2006,0.589
+ Brazil,2007,0.588
+ Brazil,2008,0.608
+ Brazil,2009,0.61
+ Brazil,2010,0.619
+ Brazil,2011,0.622
+ Brazil,2012,0.63
+ Brazil,2013,0.655
+ Brazil,2014,0.664
+ Brazil,2015,0.68
+ Brazil,2016,0.6859999999999999
+ Brazil,2017,0.6859999999999999
+ Brunei Darussalam,1990,0.588
+ Brunei Darussalam,1991,0.596
+ Brunei Darussalam,1992,0.604
+ Brunei Darussalam,1993,0.613
+ Brunei Darussalam,1994,0.62
+ Brunei Darussalam,1995,0.626
+ Brunei Darussalam,1996,0.629
+ Brunei Darussalam,1997,0.633
+ Brunei Darussalam,1998,0.636
+ Brunei Darussalam,1999,0.647
+ Brunei Darussalam,2000,0.647
+ Brunei Darussalam,2001,0.647
+ Brunei Darussalam,2002,0.6509999999999999
+ Brunei Darussalam,2003,0.6609999999999999
+ Brunei Darussalam,2004,0.6729999999999999
+ Brunei Darussalam,2005,0.679
+ Brunei Darussalam,2006,0.6829999999999999
+ Brunei Darussalam,2007,0.68
+ Brunei Darussalam,2008,0.679
+ Brunei Darussalam,2009,0.685
+ Brunei Darussalam,2010,0.685
+ Brunei Darussalam,2011,0.693
+ Brunei Darussalam,2012,0.7090000000000001
+ Brunei Darussalam,2013,0.711
+ Brunei Darussalam,2014,0.71
+ Brunei Darussalam,2015,0.705
+ Brunei Darussalam,2016,0.7040000000000001
+ Brunei Darussalam,2017,0.7040000000000001
+ Bulgaria,1990,0.632
+ Bulgaria,1991,0.637
+ Bulgaria,1992,0.635
+ Bulgaria,1993,0.635
+ Bulgaria,1994,0.635
+ Bulgaria,1995,0.647
+ Bulgaria,1996,0.6629999999999999
+ Bulgaria,1997,0.667
+ Bulgaria,1998,0.6709999999999999
+ Bulgaria,1999,0.6759999999999999
+ Bulgaria,2000,0.677
+ Bulgaria,2001,0.69
+ Bulgaria,2002,0.691
+ Bulgaria,2003,0.705
+ Bulgaria,2004,0.7120000000000001
+ Bulgaria,2005,0.715
+ Bulgaria,2006,0.721
+ Bulgaria,2007,0.738
+ Bulgaria,2008,0.742
+ Bulgaria,2009,0.746
+ Bulgaria,2010,0.7559999999999999
+ Bulgaria,2011,0.76
+ Bulgaria,2012,0.764
+ Bulgaria,2013,0.779
+ Bulgaria,2014,0.7859999999999999
+ Bulgaria,2015,0.8109999999999999
+ Bulgaria,2016,0.805
+ Bulgaria,2017,0.805
+ Burkina Faso,2000,0.139
+ Burkina Faso,2001,0.142
+ Burkina Faso,2002,0.147
+ Burkina Faso,2003,0.151
+ Burkina Faso,2004,0.162
+ Burkina Faso,2005,0.17300000000000001
+ Burkina Faso,2006,0.18100000000000002
+ Burkina Faso,2007,0.19399999999999998
+ Burkina Faso,2008,0.20800000000000002
+ Burkina Faso,2009,0.22
+ Burkina Faso,2010,0.23199999999999998
+ Burkina Faso,2011,0.245
+ Burkina Faso,2012,0.254
+ Burkina Faso,2013,0.262
+ Burkina Faso,2014,0.266
+ Burkina Faso,2015,0.27699999999999997
+ Burkina Faso,2016,0.285
+ Burkina Faso,2017,0.28600000000000003
+ Burundi,1990,0.171
+ Burundi,1991,0.17600000000000002
+ Burundi,1992,0.172
+ Burundi,1993,0.18100000000000002
+ Burundi,1994,0.18100000000000002
+ Burundi,1995,0.18100000000000002
+ Burundi,1996,0.182
+ Burundi,1997,0.182
+ Burundi,1998,0.183
+ Burundi,1999,0.183
+ Burundi,2000,0.187
+ Burundi,2001,0.18600000000000003
+ Burundi,2002,0.19899999999999998
+ Burundi,2003,0.214
+ Burundi,2004,0.228
+ Burundi,2005,0.24
+ Burundi,2006,0.28
+ Burundi,2007,0.301
+ Burundi,2008,0.32299999999999995
+ Burundi,2009,0.359
+ Burundi,2010,0.376
+ Burundi,2011,0.392
+ Burundi,2012,0.39899999999999997
+ Burundi,2013,0.408
+ Burundi,2014,0.419
+ Burundi,2015,0.42100000000000004
+ Burundi,2016,0.424
+ Burundi,2017,0.424
+ Cabo Verde,2000,0.436
+ Cabo Verde,2001,0.435
+ Cabo Verde,2002,0.451
+ Cabo Verde,2003,0.45399999999999996
+ Cabo Verde,2004,0.455
+ Cabo Verde,2005,0.46299999999999997
+ Cabo Verde,2006,0.48700000000000004
+ Cabo Verde,2007,0.49
+ Cabo Verde,2008,0.499
+ Cabo Verde,2009,0.504
+ Cabo Verde,2010,0.513
+ Cabo Verde,2011,0.522
+ Cabo Verde,2012,0.524
+ Cabo Verde,2013,0.5379999999999999
+ Cabo Verde,2014,0.5429999999999999
+ Cabo Verde,2015,0.5489999999999999
+ Cabo Verde,2016,0.555
+ Cabo Verde,2017,0.555
+ Cambodia,1990,0.276
+ Cambodia,1991,0.28
+ Cambodia,1992,0.284
+ Cambodia,1993,0.28800000000000003
+ Cambodia,1994,0.292
+ Cambodia,1995,0.297
+ Cambodia,1996,0.301
+ Cambodia,1997,0.305
+ Cambodia,1998,0.31
+ Cambodia,1999,0.305
+ Cambodia,2000,0.319
+ Cambodia,2001,0.337
+ Cambodia,2002,0.369
+ Cambodia,2003,0.382
+ Cambodia,2004,0.392
+ Cambodia,2005,0.4
+ Cambodia,2006,0.409
+ Cambodia,2007,0.41600000000000004
+ Cambodia,2008,0.424
+ Cambodia,2009,0.42200000000000004
+ Cambodia,2010,0.45
+ Cambodia,2011,0.46
+ Cambodia,2012,0.467
+ Cambodia,2013,0.474
+ Cambodia,2014,0.479
+ Cambodia,2015,0.479
+ Cambodia,2016,0.483
+ Cambodia,2017,0.48700000000000004
+ Cameroon,1990,0.33899999999999997
+ Cameroon,1991,0.342
+ Cameroon,1992,0.34299999999999997
+ Cameroon,1993,0.344
+ Cameroon,1994,0.344
+ Cameroon,1995,0.345
+ Cameroon,1996,0.34600000000000003
+ Cameroon,1997,0.34700000000000003
+ Cameroon,1998,0.359
+ Cameroon,1999,0.349
+ Cameroon,2000,0.36
+ Cameroon,2001,0.396
+ Cameroon,2002,0.39399999999999996
+ Cameroon,2003,0.39899999999999997
+ Cameroon,2004,0.4
+ Cameroon,2005,0.4
+ Cameroon,2006,0.406
+ Cameroon,2007,0.428
+ Cameroon,2008,0.441
+ Cameroon,2009,0.455
+ Cameroon,2010,0.46799999999999997
+ Cameroon,2011,0.486
+ Cameroon,2012,0.51
+ Cameroon,2013,0.526
+ Cameroon,2014,0.537
+ Cameroon,2015,0.542
+ Cameroon,2016,0.547
+ Cameroon,2017,0.547
+ Canada,1990,0.8059999999999999
+ Canada,1991,0.818
+ Canada,1992,0.8240000000000001
+ Canada,1993,0.815
+ Canada,1994,0.821
+ Canada,1995,0.8220000000000001
+ Canada,1996,0.825
+ Canada,1997,0.816
+ Canada,1998,0.807
+ Canada,1999,0.805
+ Canada,2000,0.805
+ Canada,2001,0.8140000000000001
+ Canada,2002,0.8220000000000001
+ Canada,2003,0.83
+ Canada,2004,0.8390000000000001
+ Canada,2005,0.847
+ Canada,2006,0.85
+ Canada,2007,0.852
+ Canada,2008,0.8540000000000001
+ Canada,2009,0.857
+ Canada,2010,0.8590000000000001
+ Canada,2011,0.863
+ Canada,2012,0.867
+ Canada,2013,0.87
+ Canada,2014,0.887
+ Canada,2015,0.89
+ Canada,2016,0.894
+ Canada,2017,0.899
+ Central African Republic,1990,0.214
+ Central African Republic,1991,0.207
+ Central African Republic,1992,0.18899999999999997
+ Central African Republic,1993,0.196
+ Central African Republic,1994,0.20199999999999999
+ Central African Republic,1995,0.20800000000000002
+ Central African Republic,1996,0.215
+ Central African Republic,1997,0.222
+ Central African Republic,1998,0.22899999999999998
+ Central African Republic,1999,0.23600000000000002
+ Central African Republic,2000,0.243
+ Central African Republic,2001,0.249
+ Central African Republic,2002,0.256
+ Central African Republic,2003,0.262
+ Central African Republic,2004,0.26899999999999996
+ Central African Republic,2005,0.276
+ Central African Republic,2006,0.282
+ Central African Republic,2007,0.28800000000000003
+ Central African Republic,2008,0.294
+ Central African Republic,2009,0.3
+ Central African Republic,2010,0.309
+ Central African Republic,2011,0.317
+ Central African Republic,2012,0.322
+ Central African Republic,2013,0.32899999999999996
+ Central African Republic,2014,0.33399999999999996
+ Central African Republic,2015,0.33899999999999997
+ Central African Republic,2016,0.341
+ Central African Republic,2017,0.341
+ Chad,2000,0.182
+ Chad,2001,0.19
+ Chad,2002,0.198
+ Chad,2003,0.201
+ Chad,2004,0.204
+ Chad,2005,0.20199999999999999
+ Chad,2006,0.212
+ Chad,2007,0.222
+ Chad,2008,0.23199999999999998
+ Chad,2009,0.24600000000000002
+ Chad,2010,0.249
+ Chad,2011,0.26899999999999996
+ Chad,2012,0.278
+ Chad,2013,0.28600000000000003
+ Chad,2014,0.292
+ Chad,2015,0.297
+ Chad,2016,0.298
+ Chad,2017,0.298
+ Chile,1990,0.626
+ Chile,1991,0.638
+ Chile,1992,0.64
+ Chile,1993,0.613
+ Chile,1994,0.62
+ Chile,1995,0.627
+ Chile,1996,0.633
+ Chile,1997,0.64
+ Chile,1998,0.647
+ Chile,1999,0.664
+ Chile,2000,0.672
+ Chile,2001,0.684
+ Chile,2002,0.685
+ Chile,2003,0.698
+ Chile,2004,0.715
+ Chile,2005,0.722
+ Chile,2006,0.7190000000000001
+ Chile,2007,0.7290000000000001
+ Chile,2008,0.748
+ Chile,2009,0.745
+ Chile,2010,0.747
+ Chile,2011,0.753
+ Chile,2012,0.7559999999999999
+ Chile,2013,0.775
+ Chile,2014,0.784
+ Chile,2015,0.797
+ Chile,2016,0.8
+ Chile,2017,0.8
+ China,1990,0.405
+ China,1991,0.41100000000000003
+ China,1992,0.42
+ China,1993,0.42700000000000005
+ China,1994,0.43200000000000005
+ China,1995,0.442
+ China,1996,0.45
+ China,1997,0.457
+ China,1998,0.465
+ China,1999,0.473
+ China,2000,0.48100000000000004
+ China,2001,0.48700000000000004
+ China,2002,0.496
+ China,2003,0.508
+ China,2004,0.522
+ China,2005,0.535
+ China,2006,0.551
+ China,2007,0.565
+ China,2008,0.5770000000000001
+ China,2009,0.586
+ China,2010,0.602
+ China,2011,0.61
+ China,2012,0.617
+ China,2013,0.627
+ China,2014,0.637
+ China,2015,0.6409999999999999
+ China,2016,0.644
+ China,2017,0.644
+ Colombia,1990,0.433
+ Colombia,1991,0.43799999999999994
+ Colombia,1992,0.457
+ Colombia,1993,0.466
+ Colombia,1994,0.474
+ Colombia,1995,0.48
+ Colombia,1996,0.498
+ Colombia,1997,0.512
+ Colombia,1998,0.526
+ Colombia,1999,0.529
+ Colombia,2000,0.534
+ Colombia,2001,0.537
+ Colombia,2002,0.54
+ Colombia,2003,0.5329999999999999
+ Colombia,2004,0.56
+ Colombia,2005,0.584
+ Colombia,2006,0.593
+ Colombia,2007,0.618
+ Colombia,2008,0.63
+ Colombia,2009,0.639
+ Colombia,2010,0.644
+ Colombia,2011,0.652
+ Colombia,2012,0.647
+ Colombia,2013,0.664
+ Colombia,2014,0.6659999999999999
+ Colombia,2015,0.669
+ Colombia,2016,0.6759999999999999
+ Colombia,2017,0.6759999999999999
+ Comoros,2004,0.364
+ Comoros,2005,0.376
+ Comoros,2006,0.38799999999999996
+ Comoros,2007,0.39899999999999997
+ Comoros,2008,0.41100000000000003
+ Comoros,2009,0.42200000000000004
+ Comoros,2010,0.434
+ Comoros,2011,0.446
+ Comoros,2012,0.457
+ Comoros,2013,0.46799999999999997
+ Comoros,2014,0.47100000000000003
+ Comoros,2015,0.473
+ Comoros,2016,0.473
+ Comoros,2017,0.473
+ Congo,1990,0.455
+ Congo,1991,0.455
+ Congo,1992,0.457
+ Congo,1993,0.45799999999999996
+ Congo,1994,0.45899999999999996
+ Congo,1995,0.46
+ Congo,1996,0.45899999999999996
+ Congo,1997,0.45799999999999996
+ Congo,1998,0.456
+ Congo,1999,0.455
+ Congo,2000,0.45399999999999996
+ Congo,2001,0.452
+ Congo,2002,0.449
+ Congo,2003,0.445
+ Congo,2004,0.45299999999999996
+ Congo,2005,0.46
+ Congo,2006,0.46799999999999997
+ Congo,2007,0.47600000000000003
+ Congo,2008,0.484
+ Congo,2009,0.49200000000000005
+ Congo,2010,0.5
+ Congo,2011,0.5
+ Congo,2012,0.5
+ Congo,2013,0.508
+ Congo,2014,0.514
+ Congo,2015,0.521
+ Congo,2016,0.526
+ Congo,2017,0.526
+ Congo (Democratic Republic of the),1990,0.263
+ Congo (Democratic Republic of the),1991,0.266
+ Congo (Democratic Republic of the),1992,0.27
+ Congo (Democratic Republic of the),1993,0.273
+ Congo (Democratic Republic of the),1994,0.27699999999999997
+ Congo (Democratic Republic of the),1995,0.28
+ Congo (Democratic Republic of the),1996,0.285
+ Congo (Democratic Republic of the),1997,0.29
+ Congo (Democratic Republic of the),1998,0.295
+ Congo (Democratic Republic of the),1999,0.3
+ Congo (Democratic Republic of the),2000,0.305
+ Congo (Democratic Republic of the),2001,0.315
+ Congo (Democratic Republic of the),2002,0.324
+ Congo (Democratic Republic of the),2003,0.33299999999999996
+ Congo (Democratic Republic of the),2004,0.34299999999999997
+ Congo (Democratic Republic of the),2005,0.35200000000000004
+ Congo (Democratic Republic of the),2006,0.36200000000000004
+ Congo (Democratic Republic of the),2007,0.371
+ Congo (Democratic Republic of the),2008,0.39799999999999996
+ Congo (Democratic Republic of the),2009,0.408
+ Congo (Democratic Republic of the),2010,0.424
+ Congo (Democratic Republic of the),2011,0.44
+ Congo (Democratic Republic of the),2012,0.442
+ Congo (Democratic Republic of the),2013,0.455
+ Congo (Democratic Republic of the),2014,0.467
+ Congo (Democratic Republic of the),2015,0.478
+ Congo (Democratic Republic of the),2016,0.486
+ Congo (Democratic Republic of the),2017,0.496
+ Costa Rica,1990,0.505
+ Costa Rica,1991,0.515
+ Costa Rica,1992,0.526
+ Costa Rica,1993,0.534
+ Costa Rica,1994,0.542
+ Costa Rica,1995,0.55
+ Costa Rica,1996,0.5589999999999999
+ Costa Rica,1997,0.5670000000000001
+ Costa Rica,1998,0.5760000000000001
+ Costa Rica,1999,0.584
+ Costa Rica,2000,0.593
+ Costa Rica,2001,0.597
+ Costa Rica,2002,0.601
+ Costa Rica,2003,0.605
+ Costa Rica,2004,0.609
+ Costa Rica,2005,0.613
+ Costa Rica,2006,0.619
+ Costa Rica,2007,0.628
+ Costa Rica,2008,0.642
+ Costa Rica,2009,0.65
+ Costa Rica,2010,0.65
+ Costa Rica,2011,0.659
+ Costa Rica,2012,0.684
+ Costa Rica,2013,0.691
+ Costa Rica,2014,0.698
+ Costa Rica,2015,0.713
+ Costa Rica,2016,0.715
+ Costa Rica,2017,0.7190000000000001
+ Croatia,1990,0.498
+ Croatia,1991,0.508
+ Croatia,1992,0.519
+ Croatia,1993,0.529
+ Croatia,1994,0.5529999999999999
+ Croatia,1995,0.5579999999999999
+ Croatia,1996,0.575
+ Croatia,1997,0.5920000000000001
+ Croatia,1998,0.616
+ Croatia,1999,0.639
+ Croatia,2000,0.6559999999999999
+ Croatia,2001,0.677
+ Croatia,2002,0.685
+ Croatia,2003,0.693
+ Croatia,2004,0.7020000000000001
+ Croatia,2005,0.71
+ Croatia,2006,0.726
+ Croatia,2007,0.7340000000000001
+ Croatia,2008,0.738
+ Croatia,2009,0.746
+ Croatia,2010,0.76
+ Croatia,2011,0.772
+ Croatia,2012,0.778
+ Croatia,2013,0.787
+ Croatia,2014,0.7929999999999999
+ Croatia,2015,0.7929999999999999
+ Croatia,2016,0.7909999999999999
+ Croatia,2017,0.7909999999999999
+ Cuba,1990,0.624
+ Cuba,1991,0.626
+ Cuba,1992,0.627
+ Cuba,1993,0.633
+ Cuba,1994,0.619
+ Cuba,1995,0.621
+ Cuba,1996,0.636
+ Cuba,1997,0.64
+ Cuba,1998,0.647
+ Cuba,1999,0.655
+ Cuba,2000,0.6629999999999999
+ Cuba,2001,0.67
+ Cuba,2002,0.6709999999999999
+ Cuba,2003,0.693
+ Cuba,2004,0.721
+ Cuba,2005,0.736
+ Cuba,2006,0.78
+ Cuba,2007,0.815
+ Cuba,2008,0.838
+ Cuba,2009,0.841
+ Cuba,2010,0.8240000000000001
+ Cuba,2011,0.813
+ Cuba,2012,0.773
+ Cuba,2013,0.76
+ Cuba,2014,0.767
+ Cuba,2015,0.768
+ Cuba,2016,0.774
+ Cuba,2017,0.78
+ Cyprus,1990,0.546
+ Cyprus,1991,0.5529999999999999
+ Cyprus,1992,0.556
+ Cyprus,1993,0.644
+ Cyprus,1994,0.648
+ Cyprus,1995,0.655
+ Cyprus,1996,0.662
+ Cyprus,1997,0.6679999999999999
+ Cyprus,1998,0.6709999999999999
+ Cyprus,1999,0.674
+ Cyprus,2000,0.6759999999999999
+ Cyprus,2001,0.684
+ Cyprus,2002,0.701
+ Cyprus,2003,0.718
+ Cyprus,2004,0.7240000000000001
+ Cyprus,2005,0.7290000000000001
+ Cyprus,2006,0.74
+ Cyprus,2007,0.755
+ Cyprus,2008,0.768
+ Cyprus,2009,0.7809999999999999
+ Cyprus,2010,0.767
+ Cyprus,2011,0.7709999999999999
+ Cyprus,2012,0.777
+ Cyprus,2013,0.7879999999999999
+ Cyprus,2014,0.7929999999999999
+ Cyprus,2015,0.792
+ Cyprus,2016,0.8079999999999999
+ Cyprus,2017,0.8079999999999999
+ Czechia,1990,0.609
+ Czechia,1991,0.609
+ Czechia,1992,0.612
+ Czechia,1993,0.626
+ Czechia,1994,0.642
+ Czechia,1995,0.657
+ Czechia,1996,0.685
+ Czechia,1997,0.6990000000000001
+ Czechia,1998,0.6970000000000001
+ Czechia,1999,0.7190000000000001
+ Czechia,2000,0.741
+ Czechia,2001,0.762
+ Czechia,2002,0.777
+ Czechia,2003,0.792
+ Czechia,2004,0.794
+ Czechia,2005,0.809
+ Czechia,2006,0.821
+ Czechia,2007,0.83
+ Czechia,2008,0.836
+ Czechia,2009,0.85
+ Czechia,2010,0.858
+ Czechia,2011,0.863
+ Czechia,2012,0.8590000000000001
+ Czechia,2013,0.882
+ Czechia,2014,0.893
+ Czechia,2015,0.8909999999999999
+ Czechia,2016,0.893
+ Czechia,2017,0.893
+ Côte d'Ivoire,1990,0.233
+ Côte d'Ivoire,1991,0.23800000000000002
+ Côte d'Ivoire,1992,0.243
+ Côte d'Ivoire,1993,0.248
+ Côte d'Ivoire,1994,0.253
+ Côte d'Ivoire,1995,0.259
+ Côte d'Ivoire,1996,0.266
+ Côte d'Ivoire,1997,0.273
+ Côte d'Ivoire,1998,0.273
+ Côte d'Ivoire,1999,0.287
+ Côte d'Ivoire,2000,0.297
+ Côte d'Ivoire,2001,0.305
+ Côte d'Ivoire,2002,0.313
+ Côte d'Ivoire,2003,0.321
+ Côte d'Ivoire,2004,0.32899999999999996
+ Côte d'Ivoire,2005,0.336
+ Côte d'Ivoire,2006,0.344
+ Côte d'Ivoire,2007,0.35200000000000004
+ Côte d'Ivoire,2008,0.36
+ Côte d'Ivoire,2009,0.368
+ Côte d'Ivoire,2010,0.376
+ Côte d'Ivoire,2011,0.386
+ Côte d'Ivoire,2012,0.39299999999999996
+ Côte d'Ivoire,2013,0.39899999999999997
+ Côte d'Ivoire,2014,0.39299999999999996
+ Côte d'Ivoire,2015,0.41200000000000003
+ Côte d'Ivoire,2016,0.42100000000000004
+ Côte d'Ivoire,2017,0.424
+ Denmark,1990,0.69
+ Denmark,1991,0.7
+ Denmark,1992,0.708
+ Denmark,1993,0.723
+ Denmark,1994,0.7390000000000001
+ Denmark,1995,0.7509999999999999
+ Denmark,1996,0.763
+ Denmark,1997,0.774
+ Denmark,1998,0.784
+ Denmark,1999,0.809
+ Denmark,2000,0.809
+ Denmark,2001,0.8420000000000001
+ Denmark,2002,0.858
+ Denmark,2003,0.885
+ Denmark,2004,0.889
+ Denmark,2005,0.895
+ Denmark,2006,0.89
+ Denmark,2007,0.884
+ Denmark,2008,0.897
+ Denmark,2009,0.8909999999999999
+ Denmark,2010,0.895
+ Denmark,2011,0.924
+ Denmark,2012,0.925
+ Denmark,2013,0.941
+ Denmark,2014,0.927
+ Denmark,2015,0.9179999999999999
+ Denmark,2016,0.92
+ Denmark,2017,0.92
+ Djibouti,1995,0.171
+ Djibouti,1996,0.17300000000000001
+ Djibouti,1997,0.17800000000000002
+ Djibouti,1998,0.182
+ Djibouti,1999,0.18600000000000003
+ Djibouti,2000,0.188
+ Djibouti,2001,0.203
+ Djibouti,2002,0.21100000000000002
+ Djibouti,2003,0.222
+ Djibouti,2004,0.23199999999999998
+ Djibouti,2005,0.245
+ Djibouti,2006,0.253
+ Djibouti,2007,0.267
+ Djibouti,2008,0.278
+ Djibouti,2009,0.284
+ Djibouti,2010,0.29600000000000004
+ Djibouti,2011,0.3
+ Djibouti,2012,0.303
+ Djibouti,2013,0.306
+ Djibouti,2014,0.307
+ Djibouti,2015,0.308
+ Djibouti,2016,0.309
+ Djibouti,2017,0.309
+ Dominica,2000,0.595
+ Dominica,2001,0.597
+ Dominica,2002,0.599
+ Dominica,2003,0.602
+ Dominica,2004,0.604
+ Dominica,2005,0.606
+ Dominica,2006,0.608
+ Dominica,2007,0.61
+ Dominica,2008,0.612
+ Dominica,2009,0.613
+ Dominica,2010,0.613
+ Dominica,2011,0.613
+ Dominica,2012,0.614
+ Dominica,2013,0.614
+ Dominica,2014,0.615
+ Dominica,2015,0.618
+ Dominica,2016,0.616
+ Dominica,2017,0.613
+ Dominican Republic,1990,0.485
+ Dominican Republic,1991,0.493
+ Dominican Republic,1992,0.501
+ Dominican Republic,1993,0.509
+ Dominican Republic,1994,0.517
+ Dominican Republic,1995,0.525
+ Dominican Republic,1996,0.531
+ Dominican Republic,1997,0.537
+ Dominican Republic,1998,0.542
+ Dominican Republic,1999,0.5479999999999999
+ Dominican Republic,2000,0.5539999999999999
+ Dominican Republic,2001,0.56
+ Dominican Republic,2002,0.5660000000000001
+ Dominican Republic,2003,0.573
+ Dominican Republic,2004,0.579
+ Dominican Republic,2005,0.585
+ Dominican Republic,2006,0.59
+ Dominican Republic,2007,0.595
+ Dominican Republic,2008,0.598
+ Dominican Republic,2009,0.601
+ Dominican Republic,2010,0.606
+ Dominican Republic,2011,0.611
+ Dominican Republic,2012,0.616
+ Dominican Republic,2013,0.619
+ Dominican Republic,2014,0.624
+ Dominican Republic,2015,0.643
+ Dominican Republic,2016,0.643
+ Dominican Republic,2017,0.643
+ Ecuador,1990,0.551
+ Ecuador,1991,0.5489999999999999
+ Ecuador,1992,0.5529999999999999
+ Ecuador,1993,0.557
+ Ecuador,1994,0.561
+ Ecuador,1995,0.565
+ Ecuador,1996,0.5670000000000001
+ Ecuador,1997,0.57
+ Ecuador,1998,0.5720000000000001
+ Ecuador,1999,0.575
+ Ecuador,2000,0.5770000000000001
+ Ecuador,2001,0.581
+ Ecuador,2002,0.586
+ Ecuador,2003,0.59
+ Ecuador,2004,0.594
+ Ecuador,2005,0.598
+ Ecuador,2006,0.6
+ Ecuador,2007,0.602
+ Ecuador,2008,0.628
+ Ecuador,2009,0.629
+ Ecuador,2010,0.632
+ Ecuador,2011,0.637
+ Ecuador,2012,0.642
+ Ecuador,2013,0.6559999999999999
+ Ecuador,2014,0.6709999999999999
+ Ecuador,2015,0.675
+ Ecuador,2016,0.695
+ Ecuador,2017,0.6970000000000001
+ Egypt,1990,0.389
+ Egypt,1991,0.392
+ Egypt,1992,0.4
+ Egypt,1993,0.408
+ Egypt,1994,0.41600000000000004
+ Egypt,1995,0.424
+ Egypt,1996,0.433
+ Egypt,1997,0.442
+ Egypt,1998,0.43799999999999994
+ Egypt,1999,0.461
+ Egypt,2000,0.46799999999999997
+ Egypt,2001,0.47600000000000003
+ Egypt,2002,0.484
+ Egypt,2003,0.48700000000000004
+ Egypt,2004,0.49700000000000005
+ Egypt,2005,0.507
+ Egypt,2006,0.518
+ Egypt,2007,0.529
+ Egypt,2008,0.54
+ Egypt,2009,0.54
+ Egypt,2010,0.551
+ Egypt,2011,0.556
+ Egypt,2012,0.5710000000000001
+ Egypt,2013,0.583
+ Egypt,2014,0.586
+ Egypt,2015,0.601
+ Egypt,2016,0.604
+ Egypt,2017,0.604
+ El Salvador,1990,0.382
+ El Salvador,1991,0.384
+ El Salvador,1992,0.396
+ El Salvador,1993,0.408
+ El Salvador,1994,0.42
+ El Salvador,1995,0.43200000000000005
+ El Salvador,1996,0.447
+ El Salvador,1997,0.46299999999999997
+ El Salvador,1998,0.478
+ El Salvador,1999,0.48100000000000004
+ El Salvador,2000,0.495
+ El Salvador,2001,0.505
+ El Salvador,2002,0.518
+ El Salvador,2003,0.5329999999999999
+ El Salvador,2004,0.546
+ El Salvador,2005,0.5579999999999999
+ El Salvador,2006,0.57
+ El Salvador,2007,0.555
+ El Salvador,2008,0.557
+ El Salvador,2009,0.56
+ El Salvador,2010,0.586
+ El Salvador,2011,0.57
+ El Salvador,2012,0.5770000000000001
+ El Salvador,2013,0.5760000000000001
+ El Salvador,2014,0.568
+ El Salvador,2015,0.5710000000000001
+ El Salvador,2016,0.58
+ El Salvador,2017,0.58
+ Equatorial Guinea,2000,0.402
+ Equatorial Guinea,2001,0.40700000000000003
+ Equatorial Guinea,2002,0.41100000000000003
+ Equatorial Guinea,2003,0.41600000000000004
+ Equatorial Guinea,2004,0.42100000000000004
+ Equatorial Guinea,2005,0.429
+ Equatorial Guinea,2006,0.431
+ Equatorial Guinea,2007,0.433
+ Equatorial Guinea,2008,0.434
+ Equatorial Guinea,2009,0.436
+ Equatorial Guinea,2010,0.43799999999999994
+ Equatorial Guinea,2011,0.43799999999999994
+ Equatorial Guinea,2012,0.439
+ Equatorial Guinea,2013,0.439
+ Equatorial Guinea,2014,0.439
+ Equatorial Guinea,2015,0.44
+ Equatorial Guinea,2016,0.44299999999999995
+ Equatorial Guinea,2017,0.44299999999999995
+ Eritrea,2005,0.272
+ Eritrea,2006,0.272
+ Eritrea,2007,0.271
+ Eritrea,2008,0.27
+ Eritrea,2009,0.282
+ Eritrea,2010,0.27899999999999997
+ Eritrea,2011,0.26899999999999996
+ Eritrea,2012,0.271
+ Eritrea,2013,0.272
+ Eritrea,2014,0.27399999999999997
+ Eritrea,2015,0.278
+ Eritrea,2016,0.27899999999999997
+ Eritrea,2017,0.281
+ Estonia,1990,0.675
+ Estonia,1991,0.6759999999999999
+ Estonia,1992,0.6829999999999999
+ Estonia,1993,0.6779999999999999
+ Estonia,1994,0.69
+ Estonia,1995,0.7070000000000001
+ Estonia,1996,0.726
+ Estonia,1997,0.747
+ Estonia,1998,0.768
+ Estonia,1999,0.7829999999999999
+ Estonia,2000,0.8079999999999999
+ Estonia,2001,0.8220000000000001
+ Estonia,2002,0.83
+ Estonia,2003,0.835
+ Estonia,2004,0.841
+ Estonia,2005,0.85
+ Estonia,2006,0.852
+ Estonia,2007,0.856
+ Estonia,2008,0.858
+ Estonia,2009,0.863
+ Estonia,2010,0.872
+ Estonia,2011,0.8759999999999999
+ Estonia,2012,0.877
+ Estonia,2013,0.875
+ Estonia,2014,0.87
+ Estonia,2015,0.8690000000000001
+ Estonia,2016,0.868
+ Estonia,2017,0.8690000000000001
+ Eswatini (Kingdom of),1990,0.40700000000000003
+ Eswatini (Kingdom of),1991,0.41200000000000003
+ Eswatini (Kingdom of),1992,0.413
+ Eswatini (Kingdom of),1993,0.41200000000000003
+ Eswatini (Kingdom of),1994,0.41
+ Eswatini (Kingdom of),1995,0.408
+ Eswatini (Kingdom of),1996,0.40399999999999997
+ Eswatini (Kingdom of),1997,0.401
+ Eswatini (Kingdom of),1998,0.397
+ Eswatini (Kingdom of),1999,0.39299999999999996
+ Eswatini (Kingdom of),2000,0.386
+ Eswatini (Kingdom of),2001,0.38
+ Eswatini (Kingdom of),2002,0.373
+ Eswatini (Kingdom of),2003,0.376
+ Eswatini (Kingdom of),2004,0.401
+ Eswatini (Kingdom of),2005,0.426
+ Eswatini (Kingdom of),2006,0.45899999999999996
+ Eswatini (Kingdom of),2007,0.47
+ Eswatini (Kingdom of),2008,0.48100000000000004
+ Eswatini (Kingdom of),2009,0.491
+ Eswatini (Kingdom of),2010,0.501
+ Eswatini (Kingdom of),2011,0.508
+ Eswatini (Kingdom of),2012,0.515
+ Eswatini (Kingdom of),2013,0.522
+ Eswatini (Kingdom of),2014,0.528
+ Eswatini (Kingdom of),2015,0.528
+ Eswatini (Kingdom of),2016,0.528
+ Eswatini (Kingdom of),2017,0.528
+ Ethiopia,2000,0.16899999999999998
+ Ethiopia,2001,0.187
+ Ethiopia,2002,0.2
+ Ethiopia,2003,0.20800000000000002
+ Ethiopia,2004,0.221
+ Ethiopia,2005,0.247
+ Ethiopia,2006,0.264
+ Ethiopia,2007,0.281
+ Ethiopia,2008,0.298
+ Ethiopia,2009,0.3
+ Ethiopia,2010,0.305
+ Ethiopia,2011,0.312
+ Ethiopia,2012,0.314
+ Ethiopia,2013,0.319
+ Ethiopia,2014,0.321
+ Ethiopia,2015,0.322
+ Ethiopia,2016,0.325
+ Ethiopia,2017,0.327
+ Fiji,1990,0.616
+ Fiji,1991,0.635
+ Fiji,1992,0.647
+ Fiji,1993,0.6579999999999999
+ Fiji,1994,0.67
+ Fiji,1995,0.682
+ Fiji,1996,0.6829999999999999
+ Fiji,1997,0.684
+ Fiji,1998,0.685
+ Fiji,1999,0.6859999999999999
+ Fiji,2000,0.6859999999999999
+ Fiji,2001,0.6859999999999999
+ Fiji,2002,0.685
+ Fiji,2003,0.684
+ Fiji,2004,0.695
+ Fiji,2005,0.6970000000000001
+ Fiji,2006,0.7040000000000001
+ Fiji,2007,0.7140000000000001
+ Fiji,2008,0.715
+ Fiji,2009,0.723
+ Fiji,2010,0.736
+ Fiji,2011,0.7490000000000001
+ Fiji,2012,0.753
+ Fiji,2013,0.7659999999999999
+ Fiji,2014,0.77
+ Fiji,2015,0.785
+ Fiji,2016,0.785
+ Fiji,2017,0.785
+ Finland,1990,0.6659999999999999
+ Finland,1991,0.68
+ Finland,1992,0.703
+ Finland,1993,0.7140000000000001
+ Finland,1994,0.731
+ Finland,1995,0.741
+ Finland,1996,0.752
+ Finland,1997,0.762
+ Finland,1998,0.775
+ Finland,1999,0.787
+ Finland,2000,0.8029999999999999
+ Finland,2001,0.8140000000000001
+ Finland,2002,0.8170000000000001
+ Finland,2003,0.82
+ Finland,2004,0.871
+ Finland,2005,0.8759999999999999
+ Finland,2006,0.878
+ Finland,2007,0.8740000000000001
+ Finland,2008,0.879
+ Finland,2009,0.8740000000000001
+ Finland,2010,0.879
+ Finland,2011,0.884
+ Finland,2012,0.887
+ Finland,2013,0.898
+ Finland,2014,0.903
+ Finland,2015,0.904
+ Finland,2016,0.905
+ Finland,2017,0.905
+ France,1990,0.632
+ France,1991,0.65
+ France,1992,0.67
+ France,1993,0.6829999999999999
+ France,1994,0.715
+ France,1995,0.7290000000000001
+ France,1996,0.738
+ France,1997,0.7440000000000001
+ France,1998,0.7490000000000001
+ France,1999,0.757
+ France,2000,0.762
+ France,2001,0.763
+ France,2002,0.764
+ France,2003,0.772
+ France,2004,0.774
+ France,2005,0.794
+ France,2006,0.8
+ France,2007,0.802
+ France,2008,0.804
+ France,2009,0.8059999999999999
+ France,2010,0.81
+ France,2011,0.812
+ France,2012,0.8170000000000001
+ France,2013,0.8220000000000001
+ France,2014,0.833
+ France,2015,0.84
+ France,2016,0.84
+ France,2017,0.84
+ Gabon,1990,0.473
+ Gabon,1991,0.48
+ Gabon,1992,0.48700000000000004
+ Gabon,1993,0.494
+ Gabon,1994,0.501
+ Gabon,1995,0.509
+ Gabon,1996,0.516
+ Gabon,1997,0.523
+ Gabon,1998,0.531
+ Gabon,1999,0.5379999999999999
+ Gabon,2000,0.545
+ Gabon,2001,0.551
+ Gabon,2002,0.557
+ Gabon,2003,0.563
+ Gabon,2004,0.569
+ Gabon,2005,0.575
+ Gabon,2006,0.58
+ Gabon,2007,0.585
+ Gabon,2008,0.589
+ Gabon,2009,0.594
+ Gabon,2010,0.599
+ Gabon,2011,0.604
+ Gabon,2012,0.608
+ Gabon,2013,0.618
+ Gabon,2014,0.618
+ Gabon,2015,0.618
+ Gabon,2016,0.621
+ Gabon,2017,0.628
+ Gambia,1990,0.183
+ Gambia,1991,0.188
+ Gambia,1992,0.19399999999999998
+ Gambia,1993,0.19899999999999998
+ Gambia,1994,0.205
+ Gambia,1995,0.21
+ Gambia,1996,0.21899999999999997
+ Gambia,1997,0.228
+ Gambia,1998,0.23600000000000002
+ Gambia,1999,0.245
+ Gambia,2000,0.254
+ Gambia,2001,0.264
+ Gambia,2002,0.27399999999999997
+ Gambia,2003,0.284
+ Gambia,2004,0.293
+ Gambia,2005,0.303
+ Gambia,2006,0.314
+ Gambia,2007,0.324
+ Gambia,2008,0.335
+ Gambia,2009,0.336
+ Gambia,2010,0.336
+ Gambia,2011,0.342
+ Gambia,2012,0.348
+ Gambia,2013,0.36
+ Gambia,2014,0.364
+ Gambia,2015,0.368
+ Gambia,2016,0.368
+ Gambia,2017,0.37200000000000005
+ Georgia,2000,0.7170000000000001
+ Georgia,2001,0.721
+ Georgia,2002,0.7240000000000001
+ Georgia,2003,0.731
+ Georgia,2004,0.74
+ Georgia,2005,0.753
+ Georgia,2006,0.752
+ Georgia,2007,0.77
+ Georgia,2008,0.7609999999999999
+ Georgia,2009,0.775
+ Georgia,2010,0.777
+ Georgia,2011,0.779
+ Georgia,2012,0.79
+ Georgia,2013,0.804
+ Georgia,2014,0.816
+ Georgia,2015,0.831
+ Georgia,2016,0.845
+ Georgia,2017,0.845
+ Germany,1990,0.6920000000000001
+ Germany,1991,0.705
+ Germany,1992,0.715
+ Germany,1993,0.74
+ Germany,1994,0.75
+ Germany,1995,0.759
+ Germany,1996,0.767
+ Germany,1997,0.775
+ Germany,1998,0.7859999999999999
+ Germany,1999,0.7929999999999999
+ Germany,2000,0.8240000000000001
+ Germany,2001,0.8420000000000001
+ Germany,2002,0.857
+ Germany,2003,0.872
+ Germany,2004,0.8859999999999999
+ Germany,2005,0.902
+ Germany,2006,0.9129999999999999
+ Germany,2007,0.917
+ Germany,2008,0.9209999999999999
+ Germany,2009,0.924
+ Germany,2010,0.9279999999999999
+ Germany,2011,0.932
+ Germany,2012,0.935
+ Germany,2013,0.9329999999999999
+ Germany,2014,0.9359999999999999
+ Germany,2015,0.94
+ Germany,2016,0.94
+ Germany,2017,0.94
+ Ghana,1990,0.375
+ Ghana,1991,0.381
+ Ghana,1992,0.386
+ Ghana,1993,0.391
+ Ghana,1994,0.397
+ Ghana,1995,0.402
+ Ghana,1996,0.405
+ Ghana,1997,0.409
+ Ghana,1998,0.41100000000000003
+ Ghana,1999,0.41600000000000004
+ Ghana,2000,0.42700000000000005
+ Ghana,2001,0.419
+ Ghana,2002,0.42700000000000005
+ Ghana,2003,0.423
+ Ghana,2004,0.43700000000000006
+ Ghana,2005,0.45399999999999996
+ Ghana,2006,0.469
+ Ghana,2007,0.49200000000000005
+ Ghana,2008,0.511
+ Ghana,2009,0.516
+ Ghana,2010,0.526
+ Ghana,2011,0.5329999999999999
+ Ghana,2012,0.541
+ Ghana,2013,0.5479999999999999
+ Ghana,2014,0.541
+ Ghana,2015,0.556
+ Ghana,2016,0.5579999999999999
+ Ghana,2017,0.5579999999999999
+ Greece,1990,0.607
+ Greece,1991,0.624
+ Greece,1992,0.623
+ Greece,1993,0.619
+ Greece,1994,0.626
+ Greece,1995,0.627
+ Greece,1996,0.632
+ Greece,1997,0.639
+ Greece,1998,0.659
+ Greece,1999,0.659
+ Greece,2000,0.672
+ Greece,2001,0.69
+ Greece,2002,0.7140000000000001
+ Greece,2003,0.7240000000000001
+ Greece,2004,0.742
+ Greece,2005,0.768
+ Greece,2006,0.775
+ Greece,2007,0.764
+ Greece,2008,0.785
+ Greece,2009,0.794
+ Greece,2010,0.7929999999999999
+ Greece,2011,0.795
+ Greece,2012,0.805
+ Greece,2013,0.812
+ Greece,2014,0.831
+ Greece,2015,0.833
+ Greece,2016,0.838
+ Greece,2017,0.838
+ Grenada,2002,0.654
+ Grenada,2003,0.662
+ Grenada,2004,0.67
+ Grenada,2005,0.6779999999999999
+ Grenada,2006,0.687
+ Grenada,2007,0.695
+ Grenada,2008,0.703
+ Grenada,2009,0.711
+ Grenada,2010,0.7190000000000001
+ Grenada,2011,0.726
+ Grenada,2012,0.733
+ Grenada,2013,0.74
+ Grenada,2014,0.747
+ Grenada,2015,0.754
+ Grenada,2016,0.758
+ Grenada,2017,0.758
+ Guatemala,1990,0.284
+ Guatemala,1991,0.289
+ Guatemala,1992,0.294
+ Guatemala,1993,0.3
+ Guatemala,1994,0.304
+ Guatemala,1995,0.311
+ Guatemala,1996,0.32
+ Guatemala,1997,0.33
+ Guatemala,1998,0.33899999999999997
+ Guatemala,1999,0.349
+ Guatemala,2000,0.358
+ Guatemala,2001,0.368
+ Guatemala,2002,0.379
+ Guatemala,2003,0.382
+ Guatemala,2004,0.386
+ Guatemala,2005,0.39
+ Guatemala,2006,0.40299999999999997
+ Guatemala,2007,0.419
+ Guatemala,2008,0.43200000000000005
+ Guatemala,2009,0.445
+ Guatemala,2010,0.457
+ Guatemala,2011,0.47
+ Guatemala,2012,0.45
+ Guatemala,2013,0.452
+ Guatemala,2014,0.51
+ Guatemala,2015,0.509
+ Guatemala,2016,0.514
+ Guatemala,2017,0.514
+ Guinea,1990,0.121
+ Guinea,1991,0.125
+ Guinea,1992,0.129
+ Guinea,1993,0.132
+ Guinea,1994,0.13699999999999998
+ Guinea,1995,0.142
+ Guinea,1996,0.147
+ Guinea,1997,0.158
+ Guinea,1998,0.16899999999999998
+ Guinea,1999,0.18
+ Guinea,2000,0.191
+ Guinea,2001,0.203
+ Guinea,2002,0.214
+ Guinea,2003,0.19399999999999998
+ Guinea,2004,0.23600000000000002
+ Guinea,2005,0.251
+ Guinea,2006,0.265
+ Guinea,2007,0.272
+ Guinea,2008,0.28
+ Guinea,2009,0.284
+ Guinea,2010,0.28800000000000003
+ Guinea,2011,0.309
+ Guinea,2012,0.322
+ Guinea,2013,0.33299999999999996
+ Guinea,2014,0.33899999999999997
+ Guinea,2015,0.33899999999999997
+ Guinea,2016,0.33899999999999997
+ Guinea,2017,0.33899999999999997
+ Guinea-Bissau,2005,0.311
+ Guinea-Bissau,2006,0.325
+ Guinea-Bissau,2007,0.33399999999999996
+ Guinea-Bissau,2008,0.345
+ Guinea-Bissau,2009,0.354
+ Guinea-Bissau,2010,0.361
+ Guinea-Bissau,2011,0.371
+ Guinea-Bissau,2012,0.377
+ Guinea-Bissau,2013,0.384
+ Guinea-Bissau,2014,0.389
+ Guinea-Bissau,2015,0.389
+ Guinea-Bissau,2016,0.392
+ Guinea-Bissau,2017,0.392
+ Guyana,1990,0.507
+ Guyana,1991,0.512
+ Guyana,1992,0.517
+ Guyana,1993,0.523
+ Guyana,1994,0.528
+ Guyana,1995,0.5329999999999999
+ Guyana,1996,0.539
+ Guyana,1997,0.545
+ Guyana,1998,0.55
+ Guyana,1999,0.556
+ Guyana,2000,0.561
+ Guyana,2001,0.565
+ Guyana,2002,0.568
+ Guyana,2003,0.5539999999999999
+ Guyana,2004,0.561
+ Guyana,2005,0.57
+ Guyana,2006,0.565
+ Guyana,2007,0.561
+ Guyana,2008,0.565
+ Guyana,2009,0.565
+ Guyana,2010,0.575
+ Guyana,2011,0.591
+ Guyana,2012,0.591
+ Guyana,2013,0.593
+ Guyana,2014,0.596
+ Guyana,2015,0.596
+ Guyana,2016,0.596
+ Guyana,2017,0.596
+ Haiti,1990,0.28800000000000003
+ Haiti,1991,0.294
+ Haiti,1992,0.299
+ Haiti,1993,0.305
+ Haiti,1994,0.31
+ Haiti,1995,0.316
+ Haiti,1996,0.322
+ Haiti,1997,0.32799999999999996
+ Haiti,1998,0.33299999999999996
+ Haiti,1999,0.33899999999999997
+ Haiti,2000,0.345
+ Haiti,2001,0.35100000000000003
+ Haiti,2002,0.35600000000000004
+ Haiti,2003,0.36200000000000004
+ Haiti,2004,0.368
+ Haiti,2005,0.373
+ Haiti,2006,0.37799999999999995
+ Haiti,2007,0.384
+ Haiti,2008,0.389
+ Haiti,2009,0.39399999999999996
+ Haiti,2010,0.39899999999999997
+ Haiti,2011,0.40700000000000003
+ Haiti,2012,0.41100000000000003
+ Haiti,2013,0.41600000000000004
+ Haiti,2014,0.42100000000000004
+ Haiti,2015,0.426
+ Haiti,2016,0.428
+ Haiti,2017,0.433
+ Honduras,1990,0.355
+ Honduras,1991,0.35700000000000004
+ Honduras,1992,0.36200000000000004
+ Honduras,1993,0.36700000000000005
+ Honduras,1994,0.374
+ Honduras,1995,0.381
+ Honduras,1996,0.389
+ Honduras,1997,0.396
+ Honduras,1998,0.40299999999999997
+ Honduras,1999,0.41100000000000003
+ Honduras,2000,0.418
+ Honduras,2001,0.426
+ Honduras,2002,0.434
+ Honduras,2003,0.442
+ Honduras,2004,0.449
+ Honduras,2005,0.457
+ Honduras,2006,0.465
+ Honduras,2007,0.474
+ Honduras,2008,0.461
+ Honduras,2009,0.469
+ Honduras,2010,0.47700000000000004
+ Honduras,2011,0.48
+ Honduras,2012,0.474
+ Honduras,2013,0.478
+ Honduras,2014,0.483
+ Honduras,2015,0.494
+ Honduras,2016,0.502
+ Honduras,2017,0.502
+" Hong Kong, China (SAR)",1990,0.64
+" Hong Kong, China (SAR)",1991,0.645
+" Hong Kong, China (SAR)",1992,0.65
+" Hong Kong, China (SAR)",1993,0.655
+" Hong Kong, China (SAR)",1994,0.66
+" Hong Kong, China (SAR)",1995,0.665
+" Hong Kong, China (SAR)",1996,0.669
+" Hong Kong, China (SAR)",1997,0.6729999999999999
+" Hong Kong, China (SAR)",1998,0.677
+" Hong Kong, China (SAR)",1999,0.682
+" Hong Kong, China (SAR)",2000,0.6859999999999999
+" Hong Kong, China (SAR)",2001,0.701
+" Hong Kong, China (SAR)",2002,0.716
+" Hong Kong, China (SAR)",2003,0.731
+" Hong Kong, China (SAR)",2004,0.747
+" Hong Kong, China (SAR)",2005,0.762
+" Hong Kong, China (SAR)",2006,0.7809999999999999
+" Hong Kong, China (SAR)",2007,0.7829999999999999
+" Hong Kong, China (SAR)",2008,0.7979999999999999
+" Hong Kong, China (SAR)",2009,0.807
+" Hong Kong, China (SAR)",2010,0.8079999999999999
+" Hong Kong, China (SAR)",2011,0.807
+" Hong Kong, China (SAR)",2012,0.8240000000000001
+" Hong Kong, China (SAR)",2013,0.83
+" Hong Kong, China (SAR)",2014,0.846
+" Hong Kong, China (SAR)",2015,0.852
+" Hong Kong, China (SAR)",2016,0.855
+" Hong Kong, China (SAR)",2017,0.855
+ Hungary,1990,0.598
+ Hungary,1991,0.609
+ Hungary,1992,0.623
+ Hungary,1993,0.653
+ Hungary,1994,0.6829999999999999
+ Hungary,1995,0.701
+ Hungary,1996,0.71
+ Hungary,1997,0.706
+ Hungary,1998,0.715
+ Hungary,1999,0.727
+ Hungary,2000,0.736
+ Hungary,2001,0.7490000000000001
+ Hungary,2002,0.758
+ Hungary,2003,0.773
+ Hungary,2004,0.77
+ Hungary,2005,0.787
+ Hungary,2006,0.795
+ Hungary,2007,0.8009999999999999
+ Hungary,2008,0.8079999999999999
+ Hungary,2009,0.812
+ Hungary,2010,0.8190000000000001
+ Hungary,2011,0.823
+ Hungary,2012,0.831
+ Hungary,2013,0.8340000000000001
+ Hungary,2014,0.821
+ Hungary,2015,0.818
+ Hungary,2016,0.815
+ Hungary,2017,0.815
+ Iceland,1990,0.6779999999999999
+ Iceland,1991,0.71
+ Iceland,1992,0.722
+ Iceland,1993,0.721
+ Iceland,1994,0.731
+ Iceland,1995,0.738
+ Iceland,1996,0.742
+ Iceland,1997,0.758
+ Iceland,1998,0.774
+ Iceland,1999,0.778
+ Iceland,2000,0.789
+ Iceland,2001,0.7959999999999999
+ Iceland,2002,0.813
+ Iceland,2003,0.8270000000000001
+ Iceland,2004,0.828
+ Iceland,2005,0.835
+ Iceland,2006,0.838
+ Iceland,2007,0.8420000000000001
+ Iceland,2008,0.846
+ Iceland,2009,0.8490000000000001
+ Iceland,2010,0.853
+ Iceland,2011,0.868
+ Iceland,2012,0.883
+ Iceland,2013,0.898
+ Iceland,2014,0.9059999999999999
+ Iceland,2015,0.9059999999999999
+ Iceland,2016,0.912
+ Iceland,2017,0.912
+ India,1990,0.311
+ India,1991,0.317
+ India,1992,0.324
+ India,1993,0.331
+ India,1994,0.33799999999999997
+ India,1995,0.344
+ India,1996,0.35100000000000003
+ India,1997,0.358
+ India,1998,0.365
+ India,1999,0.37200000000000005
+ India,2000,0.379
+ India,2001,0.382
+ India,2002,0.39
+ India,2003,0.409
+ India,2004,0.419
+ India,2005,0.429
+ India,2006,0.441
+ India,2007,0.452
+ India,2008,0.46399999999999997
+ India,2009,0.466
+ India,2010,0.478
+ India,2011,0.494
+ India,2012,0.507
+ India,2013,0.515
+ India,2014,0.532
+ India,2015,0.542
+ India,2016,0.556
+ India,2017,0.556
+ Indonesia,1990,0.389
+ Indonesia,1991,0.391
+ Indonesia,1992,0.39399999999999996
+ Indonesia,1993,0.39799999999999996
+ Indonesia,1994,0.409
+ Indonesia,1995,0.42
+ Indonesia,1996,0.441
+ Indonesia,1997,0.467
+ Indonesia,1998,0.485
+ Indonesia,1999,0.504
+ Indonesia,2000,0.518
+ Indonesia,2001,0.524
+ Indonesia,2002,0.5329999999999999
+ Indonesia,2003,0.5429999999999999
+ Indonesia,2004,0.551
+ Indonesia,2005,0.552
+ Indonesia,2006,0.5670000000000001
+ Indonesia,2007,0.56
+ Indonesia,2008,0.561
+ Indonesia,2009,0.5820000000000001
+ Indonesia,2010,0.586
+ Indonesia,2011,0.598
+ Indonesia,2012,0.607
+ Indonesia,2013,0.614
+ Indonesia,2014,0.615
+ Indonesia,2015,0.616
+ Indonesia,2016,0.622
+ Indonesia,2017,0.622
+ Iran (Islamic Republic of),1990,0.397
+ Iran (Islamic Republic of),1991,0.414
+ Iran (Islamic Republic of),1992,0.43200000000000005
+ Iran (Islamic Republic of),1993,0.449
+ Iran (Islamic Republic of),1994,0.466
+ Iran (Islamic Republic of),1995,0.483
+ Iran (Islamic Republic of),1996,0.493
+ Iran (Islamic Republic of),1997,0.504
+ Iran (Islamic Republic of),1998,0.514
+ Iran (Islamic Republic of),1999,0.524
+ Iran (Islamic Republic of),2000,0.53
+ Iran (Islamic Republic of),2001,0.544
+ Iran (Islamic Republic of),2002,0.546
+ Iran (Islamic Republic of),2003,0.55
+ Iran (Islamic Republic of),2004,0.546
+ Iran (Islamic Republic of),2005,0.552
+ Iran (Islamic Republic of),2006,0.633
+ Iran (Islamic Republic of),2007,0.631
+ Iran (Islamic Republic of),2008,0.64
+ Iran (Islamic Republic of),2009,0.6509999999999999
+ Iran (Islamic Republic of),2010,0.662
+ Iran (Islamic Republic of),2011,0.684
+ Iran (Islamic Republic of),2012,0.731
+ Iran (Islamic Republic of),2013,0.738
+ Iran (Islamic Republic of),2014,0.738
+ Iran (Islamic Republic of),2015,0.741
+ Iran (Islamic Republic of),2016,0.741
+ Iran (Islamic Republic of),2017,0.741
+ Iraq,1990,0.373
+ Iraq,1991,0.377
+ Iraq,1992,0.38
+ Iraq,1993,0.384
+ Iraq,1994,0.387
+ Iraq,1995,0.39
+ Iraq,1996,0.39299999999999996
+ Iraq,1997,0.396
+ Iraq,1998,0.39799999999999996
+ Iraq,1999,0.401
+ Iraq,2000,0.41100000000000003
+ Iraq,2001,0.426
+ Iraq,2002,0.441
+ Iraq,2003,0.456
+ Iraq,2004,0.47100000000000003
+ Iraq,2005,0.478
+ Iraq,2006,0.483
+ Iraq,2007,0.488
+ Iraq,2008,0.493
+ Iraq,2009,0.498
+ Iraq,2010,0.503
+ Iraq,2011,0.511
+ Iraq,2012,0.506
+ Iraq,2013,0.501
+ Iraq,2014,0.501
+ Iraq,2015,0.502
+ Iraq,2016,0.502
+ Iraq,2017,0.534
+ Ireland,1990,0.6609999999999999
+ Ireland,1991,0.6659999999999999
+ Ireland,1992,0.675
+ Ireland,1993,0.693
+ Ireland,1994,0.703
+ Ireland,1995,0.71
+ Ireland,1996,0.7140000000000001
+ Ireland,1997,0.7240000000000001
+ Ireland,1998,0.799
+ Ireland,1999,0.81
+ Ireland,2000,0.8170000000000001
+ Ireland,2001,0.826
+ Ireland,2002,0.841
+ Ireland,2003,0.855
+ Ireland,2004,0.872
+ Ireland,2005,0.878
+ Ireland,2006,0.883
+ Ireland,2007,0.894
+ Ireland,2008,0.898
+ Ireland,2009,0.904
+ Ireland,2010,0.907
+ Ireland,2011,0.862
+ Ireland,2012,0.878
+ Ireland,2013,0.894
+ Ireland,2014,0.91
+ Ireland,2015,0.91
+ Ireland,2016,0.9179999999999999
+ Ireland,2017,0.9179999999999999
+ Israel,1990,0.7140000000000001
+ Israel,1991,0.7290000000000001
+ Israel,1992,0.74
+ Israel,1993,0.75
+ Israel,1994,0.757
+ Israel,1995,0.763
+ Israel,1996,0.769
+ Israel,1997,0.7859999999999999
+ Israel,1998,0.8029999999999999
+ Israel,1999,0.82
+ Israel,2000,0.82
+ Israel,2001,0.8270000000000001
+ Israel,2002,0.8490000000000001
+ Israel,2003,0.848
+ Israel,2004,0.846
+ Israel,2005,0.847
+ Israel,2006,0.838
+ Israel,2007,0.855
+ Israel,2008,0.851
+ Israel,2009,0.855
+ Israel,2010,0.86
+ Israel,2011,0.867
+ Israel,2012,0.87
+ Israel,2013,0.87
+ Israel,2014,0.875
+ Israel,2015,0.8759999999999999
+ Israel,2016,0.8740000000000001
+ Israel,2017,0.8740000000000001
+ Italy,1990,0.599
+ Italy,1991,0.609
+ Italy,1992,0.62
+ Italy,1993,0.631
+ Italy,1994,0.647
+ Italy,1995,0.6559999999999999
+ Italy,1996,0.665
+ Italy,1997,0.6779999999999999
+ Italy,1998,0.6859999999999999
+ Italy,1999,0.6940000000000001
+ Italy,2000,0.7
+ Italy,2001,0.7120000000000001
+ Italy,2002,0.722
+ Italy,2003,0.733
+ Italy,2004,0.741
+ Italy,2005,0.748
+ Italy,2006,0.757
+ Italy,2007,0.765
+ Italy,2008,0.7709999999999999
+ Italy,2009,0.774
+ Italy,2010,0.778
+ Italy,2011,0.787
+ Italy,2012,0.787
+ Italy,2013,0.794
+ Italy,2014,0.7879999999999999
+ Italy,2015,0.7909999999999999
+ Italy,2016,0.7909999999999999
+ Italy,2017,0.7909999999999999
+ Jamaica,1990,0.509
+ Jamaica,1991,0.513
+ Jamaica,1992,0.519
+ Jamaica,1993,0.524
+ Jamaica,1994,0.529
+ Jamaica,1995,0.534
+ Jamaica,1996,0.54
+ Jamaica,1997,0.545
+ Jamaica,1998,0.55
+ Jamaica,1999,0.555
+ Jamaica,2000,0.5479999999999999
+ Jamaica,2001,0.5760000000000001
+ Jamaica,2002,0.586
+ Jamaica,2003,0.569
+ Jamaica,2004,0.611
+ Jamaica,2005,0.618
+ Jamaica,2006,0.625
+ Jamaica,2007,0.632
+ Jamaica,2008,0.639
+ Jamaica,2009,0.645
+ Jamaica,2010,0.652
+ Jamaica,2011,0.655
+ Jamaica,2012,0.6659999999999999
+ Jamaica,2013,0.679
+ Jamaica,2014,0.684
+ Jamaica,2015,0.6859999999999999
+ Jamaica,2016,0.69
+ Jamaica,2017,0.69
+ Japan,1990,0.691
+ Japan,1991,0.6970000000000001
+ Japan,1992,0.7020000000000001
+ Japan,1993,0.715
+ Japan,1994,0.728
+ Japan,1995,0.735
+ Japan,1996,0.74
+ Japan,1997,0.745
+ Japan,1998,0.741
+ Japan,1999,0.747
+ Japan,2000,0.754
+ Japan,2001,0.759
+ Japan,2002,0.764
+ Japan,2003,0.768
+ Japan,2004,0.774
+ Japan,2005,0.779
+ Japan,2006,0.785
+ Japan,2007,0.7879999999999999
+ Japan,2008,0.792
+ Japan,2009,0.7959999999999999
+ Japan,2010,0.802
+ Japan,2011,0.813
+ Japan,2012,0.823
+ Japan,2013,0.83
+ Japan,2014,0.838
+ Japan,2015,0.8390000000000001
+ Japan,2016,0.846
+ Japan,2017,0.848
+ Jordan,1990,0.496
+ Jordan,1991,0.527
+ Jordan,1992,0.561
+ Jordan,1993,0.588
+ Jordan,1994,0.613
+ Jordan,1995,0.644
+ Jordan,1996,0.65
+ Jordan,1997,0.655
+ Jordan,1998,0.66
+ Jordan,1999,0.6659999999999999
+ Jordan,2000,0.6709999999999999
+ Jordan,2001,0.679
+ Jordan,2002,0.688
+ Jordan,2003,0.698
+ Jordan,2004,0.705
+ Jordan,2005,0.705
+ Jordan,2006,0.7040000000000001
+ Jordan,2007,0.7040000000000001
+ Jordan,2008,0.7040000000000001
+ Jordan,2009,0.6970000000000001
+ Jordan,2010,0.685
+ Jordan,2011,0.68
+ Jordan,2012,0.685
+ Jordan,2013,0.6859999999999999
+ Jordan,2014,0.696
+ Jordan,2015,0.706
+ Jordan,2016,0.711
+ Jordan,2017,0.711
+ Kazakhstan,1990,0.613
+ Kazakhstan,1991,0.619
+ Kazakhstan,1992,0.627
+ Kazakhstan,1993,0.63
+ Kazakhstan,1994,0.633
+ Kazakhstan,1995,0.642
+ Kazakhstan,1996,0.6509999999999999
+ Kazakhstan,1997,0.66
+ Kazakhstan,1998,0.669
+ Kazakhstan,1999,0.6779999999999999
+ Kazakhstan,2000,0.6920000000000001
+ Kazakhstan,2001,0.711
+ Kazakhstan,2002,0.73
+ Kazakhstan,2003,0.75
+ Kazakhstan,2004,0.769
+ Kazakhstan,2005,0.789
+ Kazakhstan,2006,0.795
+ Kazakhstan,2007,0.7929999999999999
+ Kazakhstan,2008,0.79
+ Kazakhstan,2009,0.7859999999999999
+ Kazakhstan,2010,0.7809999999999999
+ Kazakhstan,2011,0.7909999999999999
+ Kazakhstan,2012,0.8009999999999999
+ Kazakhstan,2013,0.802
+ Kazakhstan,2014,0.8059999999999999
+ Kazakhstan,2015,0.8059999999999999
+ Kazakhstan,2016,0.809
+ Kazakhstan,2017,0.8140000000000001
+ Kenya,1990,0.376
+ Kenya,1991,0.379
+ Kenya,1992,0.38299999999999995
+ Kenya,1993,0.386
+ Kenya,1994,0.39
+ Kenya,1995,0.39299999999999996
+ Kenya,1996,0.396
+ Kenya,1997,0.39899999999999997
+ Kenya,1998,0.402
+ Kenya,1999,0.405
+ Kenya,2000,0.408
+ Kenya,2001,0.41600000000000004
+ Kenya,2002,0.41100000000000003
+ Kenya,2003,0.434
+ Kenya,2004,0.451
+ Kenya,2005,0.455
+ Kenya,2006,0.47600000000000003
+ Kenya,2007,0.475
+ Kenya,2008,0.484
+ Kenya,2009,0.494
+ Kenya,2010,0.501
+ Kenya,2011,0.508
+ Kenya,2012,0.515
+ Kenya,2013,0.522
+ Kenya,2014,0.528
+ Kenya,2015,0.534
+ Kenya,2016,0.5429999999999999
+ Kenya,2017,0.551
+ Kiribati,2000,0.516
+ Kiribati,2001,0.556
+ Kiribati,2002,0.556
+ Kiribati,2003,0.581
+ Kiribati,2004,0.578
+ Kiribati,2005,0.581
+ Kiribati,2006,0.575
+ Kiribati,2007,0.575
+ Kiribati,2008,0.585
+ Kiribati,2009,0.5920000000000001
+ Kiribati,2010,0.605
+ Kiribati,2011,0.615
+ Kiribati,2012,0.619
+ Kiribati,2013,0.623
+ Kiribati,2014,0.62
+ Kiribati,2015,0.62
+ Kiribati,2016,0.62
+ Kiribati,2017,0.62
+ Korea (Republic of),1990,0.6759999999999999
+ Korea (Republic of),1991,0.6859999999999999
+ Korea (Republic of),1992,0.6940000000000001
+ Korea (Republic of),1993,0.7070000000000001
+ Korea (Republic of),1994,0.723
+ Korea (Republic of),1995,0.737
+ Korea (Republic of),1996,0.7509999999999999
+ Korea (Republic of),1997,0.772
+ Korea (Republic of),1998,0.768
+ Korea (Republic of),1999,0.778
+ Korea (Republic of),2000,0.787
+ Korea (Republic of),2001,0.794
+ Korea (Republic of),2002,0.8
+ Korea (Republic of),2003,0.81
+ Korea (Republic of),2004,0.821
+ Korea (Republic of),2005,0.831
+ Korea (Republic of),2006,0.838
+ Korea (Republic of),2007,0.847
+ Korea (Republic of),2008,0.851
+ Korea (Republic of),2009,0.8320000000000001
+ Korea (Republic of),2010,0.86
+ Korea (Republic of),2011,0.862
+ Korea (Republic of),2012,0.86
+ Korea (Republic of),2013,0.861
+ Korea (Republic of),2014,0.862
+ Korea (Republic of),2015,0.862
+ Korea (Republic of),2016,0.862
+ Korea (Republic of),2017,0.862
+ Kuwait,1990,0.47600000000000003
+ Kuwait,1991,0.429
+ Kuwait,1992,0.382
+ Kuwait,1993,0.41700000000000004
+ Kuwait,1994,0.46399999999999997
+ Kuwait,1995,0.515
+ Kuwait,1996,0.5660000000000001
+ Kuwait,1997,0.5720000000000001
+ Kuwait,1998,0.583
+ Kuwait,1999,0.595
+ Kuwait,2000,0.595
+ Kuwait,2001,0.5920000000000001
+ Kuwait,2002,0.598
+ Kuwait,2003,0.603
+ Kuwait,2004,0.598
+ Kuwait,2005,0.583
+ Kuwait,2006,0.594
+ Kuwait,2007,0.5920000000000001
+ Kuwait,2008,0.595
+ Kuwait,2009,0.596
+ Kuwait,2010,0.599
+ Kuwait,2011,0.601
+ Kuwait,2012,0.604
+ Kuwait,2013,0.601
+ Kuwait,2014,0.608
+ Kuwait,2015,0.616
+ Kuwait,2016,0.618
+ Kuwait,2017,0.62
+ Kyrgyzstan,1990,0.619
+ Kyrgyzstan,1991,0.616
+ Kyrgyzstan,1992,0.615
+ Kyrgyzstan,1993,0.609
+ Kyrgyzstan,1994,0.6
+ Kyrgyzstan,1995,0.597
+ Kyrgyzstan,1996,0.603
+ Kyrgyzstan,1997,0.612
+ Kyrgyzstan,1998,0.626
+ Kyrgyzstan,1999,0.6459999999999999
+ Kyrgyzstan,2000,0.657
+ Kyrgyzstan,2001,0.669
+ Kyrgyzstan,2002,0.674
+ Kyrgyzstan,2003,0.6829999999999999
+ Kyrgyzstan,2004,0.6829999999999999
+ Kyrgyzstan,2005,0.687
+ Kyrgyzstan,2006,0.693
+ Kyrgyzstan,2007,0.6940000000000001
+ Kyrgyzstan,2008,0.69
+ Kyrgyzstan,2009,0.693
+ Kyrgyzstan,2010,0.6970000000000001
+ Kyrgyzstan,2011,0.6970000000000001
+ Kyrgyzstan,2012,0.71
+ Kyrgyzstan,2013,0.721
+ Kyrgyzstan,2014,0.728
+ Kyrgyzstan,2015,0.728
+ Kyrgyzstan,2016,0.735
+ Kyrgyzstan,2017,0.735
+ Lao People's Democratic Republic,1990,0.28800000000000003
+ Lao People's Democratic Republic,1991,0.294
+ Lao People's Democratic Republic,1992,0.299
+ Lao People's Democratic Republic,1993,0.304
+ Lao People's Democratic Republic,1994,0.315
+ Lao People's Democratic Republic,1995,0.309
+ Lao People's Democratic Republic,1996,0.32799999999999996
+ Lao People's Democratic Republic,1997,0.336
+ Lao People's Democratic Republic,1998,0.345
+ Lao People's Democratic Republic,1999,0.35
+ Lao People's Democratic Republic,2000,0.35200000000000004
+ Lao People's Democratic Republic,2001,0.354
+ Lao People's Democratic Republic,2002,0.364
+ Lao People's Democratic Republic,2003,0.375
+ Lao People's Democratic Republic,2004,0.382
+ Lao People's Democratic Republic,2005,0.39
+ Lao People's Democratic Republic,2006,0.395
+ Lao People's Democratic Republic,2007,0.402
+ Lao People's Democratic Republic,2008,0.41
+ Lao People's Democratic Republic,2009,0.42
+ Lao People's Democratic Republic,2010,0.429
+ Lao People's Democratic Republic,2011,0.447
+ Lao People's Democratic Republic,2012,0.45899999999999996
+ Lao People's Democratic Republic,2013,0.47100000000000003
+ Lao People's Democratic Republic,2014,0.47700000000000004
+ Lao People's Democratic Republic,2015,0.484
+ Lao People's Democratic Republic,2016,0.485
+ Lao People's Democratic Republic,2017,0.485
+ Latvia,1990,0.604
+ Latvia,1991,0.61
+ Latvia,1992,0.613
+ Latvia,1993,0.609
+ Latvia,1994,0.609
+ Latvia,1995,0.619
+ Latvia,1996,0.631
+ Latvia,1997,0.645
+ Latvia,1998,0.6659999999999999
+ Latvia,1999,0.688
+ Latvia,2000,0.7070000000000001
+ Latvia,2001,0.742
+ Latvia,2002,0.769
+ Latvia,2003,0.795
+ Latvia,2004,0.8220000000000001
+ Latvia,2005,0.841
+ Latvia,2006,0.845
+ Latvia,2007,0.85
+ Latvia,2008,0.857
+ Latvia,2009,0.852
+ Latvia,2010,0.85
+ Latvia,2011,0.848
+ Latvia,2012,0.843
+ Latvia,2013,0.8590000000000001
+ Latvia,2014,0.865
+ Latvia,2015,0.866
+ Latvia,2016,0.866
+ Latvia,2017,0.866
+ Lebanon,2005,0.619
+ Lebanon,2006,0.61
+ Lebanon,2007,0.623
+ Lebanon,2008,0.627
+ Lebanon,2009,0.633
+ Lebanon,2010,0.631
+ Lebanon,2011,0.637
+ Lebanon,2012,0.619
+ Lebanon,2013,0.623
+ Lebanon,2014,0.626
+ Lebanon,2015,0.63
+ Lebanon,2016,0.634
+ Lebanon,2017,0.637
+ Lesotho,1990,0.415
+ Lesotho,1991,0.418
+ Lesotho,1992,0.419
+ Lesotho,1993,0.413
+ Lesotho,1994,0.424
+ Lesotho,1995,0.43
+ Lesotho,1996,0.429
+ Lesotho,1997,0.429
+ Lesotho,1998,0.429
+ Lesotho,1999,0.428
+ Lesotho,2000,0.45
+ Lesotho,2001,0.456
+ Lesotho,2002,0.46
+ Lesotho,2003,0.469
+ Lesotho,2004,0.47100000000000003
+ Lesotho,2005,0.473
+ Lesotho,2006,0.475
+ Lesotho,2007,0.48200000000000004
+ Lesotho,2008,0.48
+ Lesotho,2009,0.498
+ Lesotho,2010,0.49200000000000005
+ Lesotho,2011,0.498
+ Lesotho,2012,0.505
+ Lesotho,2013,0.499
+ Lesotho,2014,0.502
+ Lesotho,2015,0.498
+ Lesotho,2016,0.502
+ Lesotho,2017,0.502
+ Liberia,1999,0.354
+ Liberia,2000,0.408
+ Liberia,2001,0.40700000000000003
+ Liberia,2002,0.406
+ Liberia,2003,0.406
+ Liberia,2004,0.405
+ Liberia,2005,0.40399999999999997
+ Liberia,2006,0.40299999999999997
+ Liberia,2007,0.40299999999999997
+ Liberia,2008,0.402
+ Liberia,2009,0.401
+ Liberia,2010,0.4
+ Liberia,2011,0.40700000000000003
+ Liberia,2012,0.414
+ Liberia,2013,0.42
+ Liberia,2014,0.425
+ Liberia,2015,0.425
+ Liberia,2016,0.43
+ Liberia,2017,0.434
+ Libya,1990,0.516
+ Libya,1991,0.527
+ Libya,1992,0.537
+ Libya,1993,0.5479999999999999
+ Libya,1994,0.5579999999999999
+ Libya,1995,0.568
+ Libya,1996,0.579
+ Libya,1997,0.589
+ Libya,1998,0.6
+ Libya,1999,0.61
+ Libya,2000,0.621
+ Libya,2001,0.631
+ Libya,2002,0.642
+ Libya,2003,0.6459999999999999
+ Libya,2004,0.644
+ Libya,2005,0.642
+ Libya,2006,0.64
+ Libya,2007,0.639
+ Libya,2008,0.637
+ Libya,2009,0.635
+ Libya,2010,0.634
+ Libya,2011,0.625
+ Libya,2012,0.616
+ Libya,2013,0.616
+ Libya,2014,0.616
+ Libya,2015,0.616
+ Libya,2016,0.616
+ Libya,2017,0.616
+ Liechtenstein,2000,0.716
+ Liechtenstein,2001,0.728
+ Liechtenstein,2002,0.7390000000000001
+ Liechtenstein,2003,0.7509999999999999
+ Liechtenstein,2004,0.763
+ Liechtenstein,2005,0.767
+ Liechtenstein,2006,0.775
+ Liechtenstein,2007,0.782
+ Liechtenstein,2008,0.7959999999999999
+ Liechtenstein,2009,0.795
+ Liechtenstein,2010,0.807
+ Liechtenstein,2011,0.8190000000000001
+ Liechtenstein,2012,0.8270000000000001
+ Liechtenstein,2013,0.8240000000000001
+ Liechtenstein,2014,0.818
+ Liechtenstein,2015,0.82
+ Liechtenstein,2016,0.8270000000000001
+ Liechtenstein,2017,0.8270000000000001
+ Lithuania,1990,0.655
+ Lithuania,1991,0.6579999999999999
+ Lithuania,1992,0.6509999999999999
+ Lithuania,1993,0.647
+ Lithuania,1994,0.65
+ Lithuania,1995,0.6609999999999999
+ Lithuania,1996,0.679
+ Lithuania,1997,0.6990000000000001
+ Lithuania,1998,0.718
+ Lithuania,1999,0.74
+ Lithuania,2000,0.762
+ Lithuania,2001,0.7829999999999999
+ Lithuania,2002,0.8009999999999999
+ Lithuania,2003,0.821
+ Lithuania,2004,0.8290000000000001
+ Lithuania,2005,0.848
+ Lithuania,2006,0.856
+ Lithuania,2007,0.863
+ Lithuania,2008,0.871
+ Lithuania,2009,0.853
+ Lithuania,2010,0.8540000000000001
+ Lithuania,2011,0.85
+ Lithuania,2012,0.8440000000000001
+ Lithuania,2013,0.848
+ Lithuania,2014,0.88
+ Lithuania,2015,0.88
+ Lithuania,2016,0.879
+ Lithuania,2017,0.879
+ Luxembourg,1990,0.602
+ Luxembourg,1991,0.61
+ Luxembourg,1992,0.618
+ Luxembourg,1993,0.625
+ Luxembourg,1994,0.633
+ Luxembourg,1995,0.639
+ Luxembourg,1996,0.657
+ Luxembourg,1997,0.6679999999999999
+ Luxembourg,1998,0.684
+ Luxembourg,1999,0.7120000000000001
+ Luxembourg,2000,0.7170000000000001
+ Luxembourg,2001,0.725
+ Luxembourg,2002,0.7340000000000001
+ Luxembourg,2003,0.7390000000000001
+ Luxembourg,2004,0.746
+ Luxembourg,2005,0.752
+ Luxembourg,2006,0.759
+ Luxembourg,2007,0.7659999999999999
+ Luxembourg,2008,0.767
+ Luxembourg,2009,0.774
+ Luxembourg,2010,0.78
+ Luxembourg,2011,0.78
+ Luxembourg,2012,0.779
+ Luxembourg,2013,0.778
+ Luxembourg,2014,0.7829999999999999
+ Luxembourg,2015,0.7879999999999999
+ Luxembourg,2016,0.792
+ Luxembourg,2017,0.792
+ Madagascar,2000,0.39899999999999997
+ Madagascar,2001,0.40399999999999997
+ Madagascar,2002,0.41200000000000003
+ Madagascar,2003,0.42
+ Madagascar,2004,0.428
+ Madagascar,2005,0.43799999999999994
+ Madagascar,2006,0.44299999999999995
+ Madagascar,2007,0.45299999999999996
+ Madagascar,2008,0.465
+ Madagascar,2009,0.48100000000000004
+ Madagascar,2010,0.484
+ Madagascar,2011,0.484
+ Madagascar,2012,0.489
+ Madagascar,2013,0.49200000000000005
+ Madagascar,2014,0.494
+ Madagascar,2015,0.498
+ Madagascar,2016,0.498
+ Madagascar,2017,0.498
+ Malawi,1990,0.231
+ Malawi,1991,0.239
+ Malawi,1992,0.271
+ Malawi,1993,0.28
+ Malawi,1994,0.29
+ Malawi,1995,0.385
+ Malawi,1996,0.381
+ Malawi,1997,0.387
+ Malawi,1998,0.392
+ Malawi,1999,0.395
+ Malawi,2000,0.37799999999999995
+ Malawi,2001,0.38799999999999996
+ Malawi,2002,0.38799999999999996
+ Malawi,2003,0.387
+ Malawi,2004,0.375
+ Malawi,2005,0.373
+ Malawi,2006,0.381
+ Malawi,2007,0.38299999999999995
+ Malawi,2008,0.406
+ Malawi,2009,0.42100000000000004
+ Malawi,2010,0.428
+ Malawi,2011,0.433
+ Malawi,2012,0.43799999999999994
+ Malawi,2013,0.442
+ Malawi,2014,0.445
+ Malawi,2015,0.445
+ Malawi,2016,0.45
+ Malawi,2017,0.451
+ Malaysia,1990,0.488
+ Malaysia,1991,0.499
+ Malaysia,1992,0.511
+ Malaysia,1993,0.518
+ Malaysia,1994,0.527
+ Malaysia,1995,0.536
+ Malaysia,1996,0.555
+ Malaysia,1997,0.574
+ Malaysia,1998,0.594
+ Malaysia,1999,0.603
+ Malaysia,2000,0.619
+ Malaysia,2001,0.613
+ Malaysia,2002,0.611
+ Malaysia,2003,0.62
+ Malaysia,2004,0.621
+ Malaysia,2005,0.608
+ Malaysia,2006,0.615
+ Malaysia,2007,0.64
+ Malaysia,2008,0.664
+ Malaysia,2009,0.6759999999999999
+ Malaysia,2010,0.687
+ Malaysia,2011,0.6940000000000001
+ Malaysia,2012,0.696
+ Malaysia,2013,0.701
+ Malaysia,2014,0.708
+ Malaysia,2015,0.713
+ Malaysia,2016,0.7190000000000001
+ Malaysia,2017,0.7190000000000001
+ Maldives,1995,0.354
+ Maldives,1996,0.368
+ Maldives,1997,0.384
+ Maldives,1998,0.401
+ Maldives,1999,0.419
+ Maldives,2000,0.43
+ Maldives,2001,0.43799999999999994
+ Maldives,2002,0.435
+ Maldives,2003,0.451
+ Maldives,2004,0.451
+ Maldives,2005,0.451
+ Maldives,2006,0.451
+ Maldives,2007,0.461
+ Maldives,2008,0.47
+ Maldives,2009,0.47700000000000004
+ Maldives,2010,0.494
+ Maldives,2011,0.513
+ Maldives,2012,0.525
+ Maldives,2013,0.5379999999999999
+ Maldives,2014,0.551
+ Maldives,2015,0.561
+ Maldives,2016,0.56
+ Maldives,2017,0.56
+ Mali,1990,0.081
+ Mali,1991,0.085
+ Mali,1992,0.091
+ Mali,1993,0.098
+ Mali,1994,0.106
+ Mali,1995,0.114
+ Mali,1996,0.12300000000000001
+ Mali,1997,0.136
+ Mali,1998,0.146
+ Mali,1999,0.159
+ Mali,2000,0.168
+ Mali,2001,0.179
+ Mali,2002,0.191
+ Mali,2003,0.203
+ Mali,2004,0.214
+ Mali,2005,0.226
+ Mali,2006,0.237
+ Mali,2007,0.222
+ Mali,2008,0.26
+ Mali,2009,0.27
+ Mali,2010,0.27699999999999997
+ Mali,2011,0.28300000000000003
+ Mali,2012,0.284
+ Mali,2013,0.27899999999999997
+ Mali,2014,0.285
+ Mali,2015,0.28600000000000003
+ Mali,2016,0.287
+ Mali,2017,0.293
+ Malta,1990,0.605
+ Malta,1991,0.61
+ Malta,1992,0.614
+ Malta,1993,0.618
+ Malta,1994,0.62
+ Malta,1995,0.622
+ Malta,1996,0.625
+ Malta,1997,0.631
+ Malta,1998,0.6459999999999999
+ Malta,1999,0.647
+ Malta,2000,0.648
+ Malta,2001,0.657
+ Malta,2002,0.662
+ Malta,2003,0.6779999999999999
+ Malta,2004,0.7
+ Malta,2005,0.737
+ Malta,2006,0.7290000000000001
+ Malta,2007,0.7340000000000001
+ Malta,2008,0.733
+ Malta,2009,0.7440000000000001
+ Malta,2010,0.769
+ Malta,2011,0.763
+ Malta,2012,0.777
+ Malta,2013,0.789
+ Malta,2014,0.7979999999999999
+ Malta,2015,0.81
+ Malta,2016,0.818
+ Malta,2017,0.818
+ Marshall Islands,2017,0.723
+ Mauritania,1990,0.17800000000000002
+ Mauritania,1991,0.184
+ Mauritania,1992,0.195
+ Mauritania,1993,0.212
+ Mauritania,1994,0.23399999999999999
+ Mauritania,1995,0.24
+ Mauritania,1996,0.249
+ Mauritania,1997,0.253
+ Mauritania,1998,0.266
+ Mauritania,1999,0.27399999999999997
+ Mauritania,2000,0.27899999999999997
+ Mauritania,2001,0.282
+ Mauritania,2002,0.28600000000000003
+ Mauritania,2003,0.29100000000000004
+ Mauritania,2004,0.307
+ Mauritania,2005,0.311
+ Mauritania,2006,0.319
+ Mauritania,2007,0.318
+ Mauritania,2008,0.317
+ Mauritania,2009,0.33299999999999996
+ Mauritania,2010,0.33799999999999997
+ Mauritania,2011,0.344
+ Mauritania,2012,0.359
+ Mauritania,2013,0.371
+ Mauritania,2014,0.381
+ Mauritania,2015,0.381
+ Mauritania,2016,0.385
+ Mauritania,2017,0.389
+ Mauritius,1990,0.48100000000000004
+ Mauritius,1991,0.489
+ Mauritius,1992,0.49700000000000005
+ Mauritius,1993,0.504
+ Mauritius,1994,0.512
+ Mauritius,1995,0.52
+ Mauritius,1996,0.523
+ Mauritius,1997,0.527
+ Mauritius,1998,0.535
+ Mauritius,1999,0.542
+ Mauritius,2000,0.546
+ Mauritius,2001,0.561
+ Mauritius,2002,0.569
+ Mauritius,2003,0.583
+ Mauritius,2004,0.595
+ Mauritius,2005,0.614
+ Mauritius,2006,0.623
+ Mauritius,2007,0.632
+ Mauritius,2008,0.642
+ Mauritius,2009,0.655
+ Mauritius,2010,0.664
+ Mauritius,2011,0.6809999999999999
+ Mauritius,2012,0.6990000000000001
+ Mauritius,2013,0.7070000000000001
+ Mauritius,2014,0.7290000000000001
+ Mauritius,2015,0.721
+ Mauritius,2016,0.7290000000000001
+ Mauritius,2017,0.7290000000000001
+ Mexico,1990,0.48
+ Mexico,1991,0.48100000000000004
+ Mexico,1992,0.48700000000000004
+ Mexico,1993,0.491
+ Mexico,1994,0.5
+ Mexico,1995,0.51
+ Mexico,1996,0.517
+ Mexico,1997,0.523
+ Mexico,1998,0.532
+ Mexico,1999,0.5379999999999999
+ Mexico,2000,0.5479999999999999
+ Mexico,2001,0.5539999999999999
+ Mexico,2002,0.5660000000000001
+ Mexico,2003,0.579
+ Mexico,2004,0.588
+ Mexico,2005,0.595
+ Mexico,2006,0.611
+ Mexico,2007,0.613
+ Mexico,2008,0.619
+ Mexico,2009,0.627
+ Mexico,2010,0.623
+ Mexico,2011,0.638
+ Mexico,2012,0.65
+ Mexico,2013,0.648
+ Mexico,2014,0.655
+ Mexico,2015,0.6659999999999999
+ Mexico,2016,0.6779999999999999
+ Mexico,2017,0.6779999999999999
+ Micronesia (Federated States of),2000,0.441
+ Micronesia (Federated States of),2001,0.45299999999999996
+ Micronesia (Federated States of),2002,0.465
+ Micronesia (Federated States of),2003,0.478
+ Micronesia (Federated States of),2004,0.49
+ Micronesia (Federated States of),2005,0.503
+ Micronesia (Federated States of),2006,0.515
+ Micronesia (Federated States of),2007,0.527
+ Micronesia (Federated States of),2008,0.54
+ Micronesia (Federated States of),2009,0.552
+ Micronesia (Federated States of),2010,0.564
+ Micronesia (Federated States of),2011,0.573
+ Micronesia (Federated States of),2012,0.581
+ Micronesia (Federated States of),2013,0.59
+ Micronesia (Federated States of),2014,0.59
+ Micronesia (Federated States of),2015,0.59
+ Micronesia (Federated States of),2016,0.5920000000000001
+ Micronesia (Federated States of),2017,0.59
+ Moldova (Republic of),1990,0.598
+ Moldova (Republic of),1991,0.597
+ Moldova (Republic of),1992,0.596
+ Moldova (Republic of),1993,0.595
+ Moldova (Republic of),1994,0.594
+ Moldova (Republic of),1995,0.593
+ Moldova (Republic of),1996,0.586
+ Moldova (Republic of),1997,0.59
+ Moldova (Republic of),1998,0.603
+ Moldova (Republic of),1999,0.615
+ Moldova (Republic of),2000,0.617
+ Moldova (Republic of),2001,0.623
+ Moldova (Republic of),2002,0.638
+ Moldova (Republic of),2003,0.652
+ Moldova (Republic of),2004,0.6659999999999999
+ Moldova (Republic of),2005,0.6759999999999999
+ Moldova (Republic of),2006,0.69
+ Moldova (Republic of),2007,0.7
+ Moldova (Republic of),2008,0.698
+ Moldova (Republic of),2009,0.6970000000000001
+ Moldova (Republic of),2010,0.696
+ Moldova (Republic of),2011,0.6990000000000001
+ Moldova (Republic of),2012,0.7090000000000001
+ Moldova (Republic of),2013,0.716
+ Moldova (Republic of),2014,0.7140000000000001
+ Moldova (Republic of),2015,0.7090000000000001
+ Moldova (Republic of),2016,0.71
+ Moldova (Republic of),2017,0.71
+ Mongolia,1990,0.539
+ Mongolia,1991,0.527
+ Mongolia,1992,0.504
+ Mongolia,1993,0.474
+ Mongolia,1994,0.473
+ Mongolia,1995,0.474
+ Mongolia,1996,0.486
+ Mongolia,1997,0.495
+ Mongolia,1998,0.508
+ Mongolia,1999,0.518
+ Mongolia,2000,0.534
+ Mongolia,2001,0.557
+ Mongolia,2002,0.57
+ Mongolia,2003,0.593
+ Mongolia,2004,0.612
+ Mongolia,2005,0.639
+ Mongolia,2006,0.652
+ Mongolia,2007,0.6679999999999999
+ Mongolia,2008,0.685
+ Mongolia,2009,0.701
+ Mongolia,2010,0.721
+ Mongolia,2011,0.7340000000000001
+ Mongolia,2012,0.74
+ Mongolia,2013,0.745
+ Mongolia,2014,0.75
+ Mongolia,2015,0.754
+ Mongolia,2016,0.7659999999999999
+ Mongolia,2017,0.7659999999999999
+ Montenegro,2003,0.693
+ Montenegro,2004,0.705
+ Montenegro,2005,0.718
+ Montenegro,2006,0.7340000000000001
+ Montenegro,2007,0.7509999999999999
+ Montenegro,2008,0.767
+ Montenegro,2009,0.78
+ Montenegro,2010,0.787
+ Montenegro,2011,0.787
+ Montenegro,2012,0.7909999999999999
+ Montenegro,2013,0.7909999999999999
+ Montenegro,2014,0.7909999999999999
+ Montenegro,2015,0.79
+ Montenegro,2016,0.79
+ Montenegro,2017,0.79
+ Morocco,1990,0.254
+ Morocco,1991,0.258
+ Morocco,1992,0.264
+ Morocco,1993,0.27399999999999997
+ Morocco,1994,0.284
+ Morocco,1995,0.295
+ Morocco,1996,0.303
+ Morocco,1997,0.31
+ Morocco,1998,0.316
+ Morocco,1999,0.331
+ Morocco,2000,0.348
+ Morocco,2001,0.361
+ Morocco,2002,0.377
+ Morocco,2003,0.39
+ Morocco,2004,0.4
+ Morocco,2005,0.409
+ Morocco,2006,0.41200000000000003
+ Morocco,2007,0.42200000000000004
+ Morocco,2008,0.429
+ Morocco,2009,0.43700000000000006
+ Morocco,2010,0.449
+ Morocco,2011,0.46299999999999997
+ Morocco,2012,0.48100000000000004
+ Morocco,2013,0.495
+ Morocco,2014,0.504
+ Morocco,2015,0.51
+ Morocco,2016,0.525
+ Morocco,2017,0.529
+ Mozambique,1990,0.131
+ Mozambique,1991,0.133
+ Mozambique,1992,0.134
+ Mozambique,1993,0.139
+ Mozambique,1994,0.147
+ Mozambique,1995,0.159
+ Mozambique,1996,0.177
+ Mozambique,1997,0.191
+ Mozambique,1998,0.20600000000000002
+ Mozambique,1999,0.22
+ Mozambique,2000,0.23600000000000002
+ Mozambique,2001,0.253
+ Mozambique,2002,0.268
+ Mozambique,2003,0.282
+ Mozambique,2004,0.298
+ Mozambique,2005,0.318
+ Mozambique,2006,0.32799999999999996
+ Mozambique,2007,0.34700000000000003
+ Mozambique,2008,0.36
+ Mozambique,2009,0.366
+ Mozambique,2010,0.373
+ Mozambique,2011,0.368
+ Mozambique,2012,0.366
+ Mozambique,2013,0.38299999999999995
+ Mozambique,2014,0.38299999999999995
+ Mozambique,2015,0.385
+ Mozambique,2016,0.385
+ Mozambique,2017,0.385
+ Myanmar,1990,0.251
+ Myanmar,1991,0.268
+ Myanmar,1992,0.28600000000000003
+ Myanmar,1993,0.29100000000000004
+ Myanmar,1994,0.29600000000000004
+ Myanmar,1995,0.29600000000000004
+ Myanmar,1996,0.301
+ Myanmar,1997,0.305
+ Myanmar,1998,0.31
+ Myanmar,1999,0.315
+ Myanmar,2000,0.319
+ Myanmar,2001,0.324
+ Myanmar,2002,0.32899999999999996
+ Myanmar,2003,0.33399999999999996
+ Myanmar,2004,0.33899999999999997
+ Myanmar,2005,0.344
+ Myanmar,2006,0.35
+ Myanmar,2007,0.359
+ Myanmar,2008,0.37
+ Myanmar,2009,0.381
+ Myanmar,2010,0.392
+ Myanmar,2011,0.40700000000000003
+ Myanmar,2012,0.41700000000000004
+ Myanmar,2013,0.42700000000000005
+ Myanmar,2014,0.431
+ Myanmar,2015,0.436
+ Myanmar,2016,0.44
+ Myanmar,2017,0.44299999999999995
+ Namibia,1990,0.495
+ Namibia,1991,0.496
+ Namibia,1992,0.508
+ Namibia,1993,0.52
+ Namibia,1994,0.532
+ Namibia,1995,0.528
+ Namibia,1996,0.523
+ Namibia,1997,0.517
+ Namibia,1998,0.514
+ Namibia,1999,0.506
+ Namibia,2000,0.51
+ Namibia,2001,0.521
+ Namibia,2002,0.517
+ Namibia,2003,0.52
+ Namibia,2004,0.518
+ Namibia,2005,0.516
+ Namibia,2006,0.513
+ Namibia,2007,0.519
+ Namibia,2008,0.521
+ Namibia,2009,0.528
+ Namibia,2010,0.5379999999999999
+ Namibia,2011,0.5489999999999999
+ Namibia,2012,0.557
+ Namibia,2013,0.562
+ Namibia,2014,0.565
+ Namibia,2015,0.565
+ Namibia,2016,0.569
+ Namibia,2017,0.5710000000000001
+ Nepal,1990,0.276
+ Nepal,1991,0.28300000000000003
+ Nepal,1992,0.29100000000000004
+ Nepal,1993,0.293
+ Nepal,1994,0.295
+ Nepal,1995,0.299
+ Nepal,1996,0.31
+ Nepal,1997,0.315
+ Nepal,1998,0.32
+ Nepal,1999,0.325
+ Nepal,2000,0.33
+ Nepal,2001,0.322
+ Nepal,2002,0.341
+ Nepal,2003,0.34600000000000003
+ Nepal,2004,0.353
+ Nepal,2005,0.359
+ Nepal,2006,0.375
+ Nepal,2007,0.381
+ Nepal,2008,0.395
+ Nepal,2009,0.41600000000000004
+ Nepal,2010,0.44299999999999995
+ Nepal,2011,0.451
+ Nepal,2012,0.475
+ Nepal,2013,0.484
+ Nepal,2014,0.488
+ Nepal,2015,0.495
+ Nepal,2016,0.502
+ Nepal,2017,0.502
+ Netherlands,1990,0.746
+ Netherlands,1991,0.7559999999999999
+ Netherlands,1992,0.7559999999999999
+ Netherlands,1993,0.764
+ Netherlands,1994,0.8290000000000001
+ Netherlands,1995,0.815
+ Netherlands,1996,0.8220000000000001
+ Netherlands,1997,0.8140000000000001
+ Netherlands,1998,0.815
+ Netherlands,1999,0.813
+ Netherlands,2000,0.821
+ Netherlands,2001,0.8290000000000001
+ Netherlands,2002,0.8240000000000001
+ Netherlands,2003,0.8320000000000001
+ Netherlands,2004,0.835
+ Netherlands,2005,0.8440000000000001
+ Netherlands,2006,0.851
+ Netherlands,2007,0.862
+ Netherlands,2008,0.866
+ Netherlands,2009,0.865
+ Netherlands,2010,0.871
+ Netherlands,2011,0.8959999999999999
+ Netherlands,2012,0.895
+ Netherlands,2013,0.899
+ Netherlands,2014,0.902
+ Netherlands,2015,0.903
+ Netherlands,2016,0.905
+ Netherlands,2017,0.9059999999999999
+ New Zealand,1990,0.787
+ New Zealand,1991,0.797
+ New Zealand,1992,0.807
+ New Zealand,1993,0.8290000000000001
+ New Zealand,1994,0.846
+ New Zealand,1995,0.8540000000000001
+ New Zealand,1996,0.858
+ New Zealand,1997,0.867
+ New Zealand,1998,0.8690000000000001
+ New Zealand,1999,0.8640000000000001
+ New Zealand,2000,0.8690000000000001
+ New Zealand,2001,0.872
+ New Zealand,2002,0.887
+ New Zealand,2003,0.888
+ New Zealand,2004,0.888
+ New Zealand,2005,0.888
+ New Zealand,2006,0.89
+ New Zealand,2007,0.892
+ New Zealand,2008,0.894
+ New Zealand,2009,0.897
+ New Zealand,2010,0.899
+ New Zealand,2011,0.9009999999999999
+ New Zealand,2012,0.903
+ New Zealand,2013,0.905
+ New Zealand,2014,0.907
+ New Zealand,2015,0.914
+ New Zealand,2016,0.917
+ New Zealand,2017,0.917
+ Nicaragua,1990,0.349
+ Nicaragua,1991,0.366
+ Nicaragua,1992,0.375
+ Nicaragua,1993,0.38299999999999995
+ Nicaragua,1994,0.39
+ Nicaragua,1995,0.39799999999999996
+ Nicaragua,1996,0.41
+ Nicaragua,1997,0.42200000000000004
+ Nicaragua,1998,0.433
+ Nicaragua,1999,0.445
+ Nicaragua,2000,0.457
+ Nicaragua,2001,0.46799999999999997
+ Nicaragua,2002,0.479
+ Nicaragua,2003,0.48200000000000004
+ Nicaragua,2004,0.485
+ Nicaragua,2005,0.488
+ Nicaragua,2006,0.491
+ Nicaragua,2007,0.498
+ Nicaragua,2008,0.506
+ Nicaragua,2009,0.513
+ Nicaragua,2010,0.52
+ Nicaragua,2011,0.524
+ Nicaragua,2012,0.529
+ Nicaragua,2013,0.536
+ Nicaragua,2014,0.5529999999999999
+ Nicaragua,2015,0.5529999999999999
+ Nicaragua,2016,0.5579999999999999
+ Nicaragua,2017,0.5579999999999999
+ Niger,1990,0.08199999999999999
+ Niger,1991,0.084
+ Niger,1992,0.086
+ Niger,1993,0.09
+ Niger,1994,0.09300000000000001
+ Niger,1995,0.09699999999999999
+ Niger,1996,0.10099999999999999
+ Niger,1997,0.105
+ Niger,1998,0.109
+ Niger,1999,0.11199999999999999
+ Niger,2000,0.11599999999999999
+ Niger,2001,0.12
+ Niger,2002,0.124
+ Niger,2003,0.126
+ Niger,2004,0.13699999999999998
+ Niger,2005,0.14400000000000002
+ Niger,2006,0.149
+ Niger,2007,0.154
+ Niger,2008,0.162
+ Niger,2009,0.17
+ Niger,2010,0.18
+ Niger,2011,0.18899999999999997
+ Niger,2012,0.2
+ Niger,2013,0.204
+ Niger,2014,0.207
+ Niger,2015,0.20800000000000002
+ Niger,2016,0.212
+ Niger,2017,0.214
+ Nigeria,2003,0.41100000000000003
+ Nigeria,2004,0.424
+ Nigeria,2005,0.426
+ Nigeria,2006,0.428
+ Nigeria,2007,0.431
+ Nigeria,2008,0.435
+ Nigeria,2009,0.43799999999999994
+ Nigeria,2010,0.40700000000000003
+ Nigeria,2011,0.424
+ Nigeria,2012,0.46399999999999997
+ Nigeria,2013,0.475
+ Nigeria,2014,0.475
+ Nigeria,2015,0.47700000000000004
+ Nigeria,2016,0.483
+ Nigeria,2017,0.483
+ Norway,1990,0.772
+ Norway,1991,0.782
+ Norway,1992,0.792
+ Norway,1993,0.8079999999999999
+ Norway,1994,0.8390000000000001
+ Norway,1995,0.826
+ Norway,1996,0.8320000000000001
+ Norway,1997,0.841
+ Norway,1998,0.868
+ Norway,1999,0.8759999999999999
+ Norway,2000,0.888
+ Norway,2001,0.878
+ Norway,2002,0.88
+ Norway,2003,0.892
+ Norway,2004,0.9129999999999999
+ Norway,2005,0.9009999999999999
+ Norway,2006,0.907
+ Norway,2007,0.907
+ Norway,2008,0.905
+ Norway,2009,0.905
+ Norway,2010,0.912
+ Norway,2011,0.914
+ Norway,2012,0.907
+ Norway,2013,0.914
+ Norway,2014,0.907
+ Norway,2015,0.9079999999999999
+ Norway,2016,0.915
+ Norway,2017,0.915
+ Oman,2000,0.475
+ Oman,2001,0.49200000000000005
+ Oman,2002,0.51
+ Oman,2003,0.532
+ Oman,2004,0.5429999999999999
+ Oman,2005,0.5529999999999999
+ Oman,2006,0.562
+ Oman,2007,0.5770000000000001
+ Oman,2008,0.614
+ Oman,2009,0.627
+ Oman,2010,0.635
+ Oman,2011,0.647
+ Oman,2012,0.664
+ Oman,2013,0.6809999999999999
+ Oman,2014,0.6920000000000001
+ Oman,2015,0.706
+ Oman,2016,0.706
+ Oman,2017,0.706
+ Pakistan,1990,0.205
+ Pakistan,1991,0.21
+ Pakistan,1992,0.215
+ Pakistan,1993,0.221
+ Pakistan,1994,0.226
+ Pakistan,1995,0.23199999999999998
+ Pakistan,1996,0.237
+ Pakistan,1997,0.243
+ Pakistan,1998,0.248
+ Pakistan,1999,0.254
+ Pakistan,2000,0.259
+ Pakistan,2001,0.27
+ Pakistan,2002,0.28
+ Pakistan,2003,0.29
+ Pakistan,2004,0.311
+ Pakistan,2005,0.33
+ Pakistan,2006,0.335
+ Pakistan,2007,0.34700000000000003
+ Pakistan,2008,0.349
+ Pakistan,2009,0.359
+ Pakistan,2010,0.365
+ Pakistan,2011,0.37
+ Pakistan,2012,0.376
+ Pakistan,2013,0.38
+ Pakistan,2014,0.395
+ Pakistan,2015,0.39799999999999996
+ Pakistan,2016,0.41100000000000003
+ Pakistan,2017,0.41100000000000003
+ Palau,2000,0.7609999999999999
+ Palau,2001,0.762
+ Palau,2002,0.763
+ Palau,2003,0.765
+ Palau,2004,0.7659999999999999
+ Palau,2005,0.767
+ Palau,2006,0.773
+ Palau,2007,0.779
+ Palau,2008,0.784
+ Palau,2009,0.79
+ Palau,2010,0.795
+ Palau,2011,0.8009999999999999
+ Palau,2012,0.8029999999999999
+ Palau,2013,0.81
+ Palau,2014,0.818
+ Palau,2015,0.826
+ Palau,2016,0.8370000000000001
+ Palau,2017,0.8440000000000001
+" Palestine, State of",2004,0.607
+" Palestine, State of",2005,0.611
+" Palestine, State of",2006,0.62
+" Palestine, State of",2007,0.639
+" Palestine, State of",2008,0.644
+" Palestine, State of",2009,0.6509999999999999
+" Palestine, State of",2010,0.655
+" Palestine, State of",2011,0.66
+" Palestine, State of",2012,0.667
+" Palestine, State of",2013,0.654
+" Palestine, State of",2014,0.655
+" Palestine, State of",2015,0.657
+" Palestine, State of",2016,0.66
+" Palestine, State of",2017,0.66
+ Panama,1990,0.5379999999999999
+ Panama,1991,0.5429999999999999
+ Panama,1992,0.552
+ Panama,1993,0.562
+ Panama,1994,0.565
+ Panama,1995,0.5770000000000001
+ Panama,1996,0.586
+ Panama,1997,0.596
+ Panama,1998,0.607
+ Panama,1999,0.617
+ Panama,2000,0.627
+ Panama,2001,0.637
+ Panama,2002,0.645
+ Panama,2003,0.6509999999999999
+ Panama,2004,0.655
+ Panama,2005,0.6579999999999999
+ Panama,2006,0.6609999999999999
+ Panama,2007,0.665
+ Panama,2008,0.6629999999999999
+ Panama,2009,0.665
+ Panama,2010,0.665
+ Panama,2011,0.662
+ Panama,2012,0.6679999999999999
+ Panama,2013,0.674
+ Panama,2014,0.6809999999999999
+ Panama,2015,0.6809999999999999
+ Panama,2016,0.687
+ Panama,2017,0.6920000000000001
+ Papua New Guinea,1990,0.207
+ Papua New Guinea,1991,0.214
+ Papua New Guinea,1992,0.221
+ Papua New Guinea,1993,0.228
+ Papua New Guinea,1994,0.225
+ Papua New Guinea,1995,0.24100000000000002
+ Papua New Guinea,1996,0.25
+ Papua New Guinea,1997,0.259
+ Papua New Guinea,1998,0.268
+ Papua New Guinea,1999,0.273
+ Papua New Guinea,2000,0.284
+ Papua New Guinea,2001,0.29600000000000004
+ Papua New Guinea,2002,0.306
+ Papua New Guinea,2003,0.316
+ Papua New Guinea,2004,0.33
+ Papua New Guinea,2005,0.34
+ Papua New Guinea,2006,0.353
+ Papua New Guinea,2007,0.36700000000000005
+ Papua New Guinea,2008,0.375
+ Papua New Guinea,2009,0.389
+ Papua New Guinea,2010,0.405
+ Papua New Guinea,2011,0.419
+ Papua New Guinea,2012,0.419
+ Papua New Guinea,2013,0.425
+ Papua New Guinea,2014,0.42
+ Papua New Guinea,2015,0.429
+ Papua New Guinea,2016,0.429
+ Papua New Guinea,2017,0.43
+ Paraguay,1990,0.431
+ Paraguay,1991,0.442
+ Paraguay,1992,0.452
+ Paraguay,1993,0.46299999999999997
+ Paraguay,1994,0.47100000000000003
+ Paraguay,1995,0.48
+ Paraguay,1996,0.488
+ Paraguay,1997,0.499
+ Paraguay,1998,0.509
+ Paraguay,1999,0.52
+ Paraguay,2000,0.524
+ Paraguay,2001,0.546
+ Paraguay,2002,0.568
+ Paraguay,2003,0.5710000000000001
+ Paraguay,2004,0.579
+ Paraguay,2005,0.581
+ Paraguay,2006,0.569
+ Paraguay,2007,0.568
+ Paraguay,2008,0.5820000000000001
+ Paraguay,2009,0.5760000000000001
+ Paraguay,2010,0.599
+ Paraguay,2011,0.606
+ Paraguay,2012,0.609
+ Paraguay,2013,0.628
+ Paraguay,2014,0.63
+ Paraguay,2015,0.637
+ Paraguay,2016,0.631
+ Paraguay,2017,0.631
+ Peru,1990,0.551
+ Peru,1991,0.556
+ Peru,1992,0.555
+ Peru,1993,0.5579999999999999
+ Peru,1994,0.568
+ Peru,1995,0.581
+ Peru,1996,0.586
+ Peru,1997,0.59
+ Peru,1998,0.613
+ Peru,1999,0.636
+ Peru,2000,0.636
+ Peru,2001,0.655
+ Peru,2002,0.6459999999999999
+ Peru,2003,0.636
+ Peru,2004,0.647
+ Peru,2005,0.653
+ Peru,2006,0.635
+ Peru,2007,0.642
+ Peru,2008,0.653
+ Peru,2009,0.6559999999999999
+ Peru,2010,0.652
+ Peru,2011,0.6779999999999999
+ Peru,2012,0.6659999999999999
+ Peru,2013,0.674
+ Peru,2014,0.696
+ Peru,2015,0.6859999999999999
+ Peru,2016,0.688
+ Peru,2017,0.6890000000000001
+ Philippines,1990,0.519
+ Philippines,1991,0.523
+ Philippines,1992,0.527
+ Philippines,1993,0.53
+ Philippines,1994,0.5329999999999999
+ Philippines,1995,0.536
+ Philippines,1996,0.5489999999999999
+ Philippines,1997,0.552
+ Philippines,1998,0.556
+ Philippines,1999,0.565
+ Philippines,2000,0.568
+ Philippines,2001,0.573
+ Philippines,2002,0.584
+ Philippines,2003,0.589
+ Philippines,2004,0.611
+ Philippines,2005,0.611
+ Philippines,2006,0.61
+ Philippines,2007,0.619
+ Philippines,2008,0.626
+ Philippines,2009,0.615
+ Philippines,2010,0.622
+ Philippines,2011,0.633
+ Philippines,2012,0.644
+ Philippines,2013,0.655
+ Philippines,2014,0.657
+ Philippines,2015,0.6609999999999999
+ Philippines,2016,0.6609999999999999
+ Philippines,2017,0.6609999999999999
+ Poland,1990,0.665
+ Poland,1991,0.6709999999999999
+ Poland,1992,0.6759999999999999
+ Poland,1993,0.698
+ Poland,1994,0.71
+ Poland,1995,0.713
+ Poland,1996,0.723
+ Poland,1997,0.741
+ Poland,1998,0.7559999999999999
+ Poland,1999,0.77
+ Poland,2000,0.777
+ Poland,2001,0.787
+ Poland,2002,0.804
+ Poland,2003,0.8109999999999999
+ Poland,2004,0.7959999999999999
+ Poland,2005,0.804
+ Poland,2006,0.8079999999999999
+ Poland,2007,0.8109999999999999
+ Poland,2008,0.815
+ Poland,2009,0.8220000000000001
+ Poland,2010,0.8320000000000001
+ Poland,2011,0.833
+ Poland,2012,0.8170000000000001
+ Poland,2013,0.853
+ Poland,2014,0.8220000000000001
+ Poland,2015,0.853
+ Poland,2016,0.862
+ Poland,2017,0.866
+ Portugal,1990,0.536
+ Portugal,1991,0.55
+ Portugal,1992,0.573
+ Portugal,1993,0.606
+ Portugal,1994,0.621
+ Portugal,1995,0.632
+ Portugal,1996,0.644
+ Portugal,1997,0.652
+ Portugal,1998,0.6609999999999999
+ Portugal,1999,0.652
+ Portugal,2000,0.6609999999999999
+ Portugal,2001,0.669
+ Portugal,2002,0.67
+ Portugal,2003,0.677
+ Portugal,2004,0.6729999999999999
+ Portugal,2005,0.677
+ Portugal,2006,0.6809999999999999
+ Portugal,2007,0.691
+ Portugal,2008,0.701
+ Portugal,2009,0.7070000000000001
+ Portugal,2010,0.715
+ Portugal,2011,0.7240000000000001
+ Portugal,2012,0.733
+ Portugal,2013,0.7509999999999999
+ Portugal,2014,0.755
+ Portugal,2015,0.757
+ Portugal,2016,0.759
+ Portugal,2017,0.759
+ Qatar,1990,0.507
+ Qatar,1991,0.503
+ Qatar,1992,0.502
+ Qatar,1993,0.523
+ Qatar,1994,0.545
+ Qatar,1995,0.562
+ Qatar,1996,0.588
+ Qatar,1997,0.596
+ Qatar,1998,0.604
+ Qatar,1999,0.611
+ Qatar,2000,0.613
+ Qatar,2001,0.616
+ Qatar,2002,0.625
+ Qatar,2003,0.642
+ Qatar,2004,0.6459999999999999
+ Qatar,2005,0.657
+ Qatar,2006,0.648
+ Qatar,2007,0.652
+ Qatar,2008,0.6629999999999999
+ Qatar,2009,0.657
+ Qatar,2010,0.637
+ Qatar,2011,0.662
+ Qatar,2012,0.6779999999999999
+ Qatar,2013,0.701
+ Qatar,2014,0.698
+ Qatar,2015,0.698
+ Qatar,2016,0.698
+ Qatar,2017,0.698
+ Romania,1990,0.632
+ Romania,1991,0.609
+ Romania,1992,0.6
+ Romania,1993,0.597
+ Romania,1994,0.598
+ Romania,1995,0.606
+ Romania,1996,0.622
+ Romania,1997,0.628
+ Romania,1998,0.634
+ Romania,1999,0.648
+ Romania,2000,0.654
+ Romania,2001,0.657
+ Romania,2002,0.667
+ Romania,2003,0.6829999999999999
+ Romania,2004,0.703
+ Romania,2005,0.716
+ Romania,2006,0.733
+ Romania,2007,0.7559999999999999
+ Romania,2008,0.777
+ Romania,2009,0.7859999999999999
+ Romania,2010,0.7829999999999999
+ Romania,2011,0.777
+ Romania,2012,0.763
+ Romania,2013,0.767
+ Romania,2014,0.765
+ Romania,2015,0.767
+ Romania,2016,0.762
+ Romania,2017,0.762
+ Russian Federation,1990,0.6629999999999999
+ Russian Federation,1991,0.664
+ Russian Federation,1992,0.662
+ Russian Federation,1993,0.6579999999999999
+ Russian Federation,1994,0.6559999999999999
+ Russian Federation,1995,0.662
+ Russian Federation,1996,0.674
+ Russian Federation,1997,0.682
+ Russian Federation,1998,0.6940000000000001
+ Russian Federation,1999,0.705
+ Russian Federation,2000,0.7240000000000001
+ Russian Federation,2001,0.735
+ Russian Federation,2002,0.746
+ Russian Federation,2003,0.757
+ Russian Federation,2004,0.76
+ Russian Federation,2005,0.762
+ Russian Federation,2006,0.764
+ Russian Federation,2007,0.767
+ Russian Federation,2008,0.77
+ Russian Federation,2009,0.763
+ Russian Federation,2010,0.772
+ Russian Federation,2011,0.784
+ Russian Federation,2012,0.7959999999999999
+ Russian Federation,2013,0.8059999999999999
+ Russian Federation,2014,0.812
+ Russian Federation,2015,0.828
+ Russian Federation,2016,0.8320000000000001
+ Russian Federation,2017,0.8320000000000001
+ Rwanda,1990,0.218
+ Rwanda,1991,0.222
+ Rwanda,1992,0.226
+ Rwanda,1993,0.23
+ Rwanda,1994,0.235
+ Rwanda,1995,0.239
+ Rwanda,1996,0.244
+ Rwanda,1997,0.248
+ Rwanda,1998,0.243
+ Rwanda,1999,0.262
+ Rwanda,2000,0.276
+ Rwanda,2001,0.282
+ Rwanda,2002,0.29600000000000004
+ Rwanda,2003,0.316
+ Rwanda,2004,0.337
+ Rwanda,2005,0.354
+ Rwanda,2006,0.381
+ Rwanda,2007,0.395
+ Rwanda,2008,0.39399999999999996
+ Rwanda,2009,0.41600000000000004
+ Rwanda,2010,0.43700000000000006
+ Rwanda,2011,0.44
+ Rwanda,2012,0.44299999999999995
+ Rwanda,2013,0.44
+ Rwanda,2014,0.445
+ Rwanda,2015,0.434
+ Rwanda,2016,0.45
+ Rwanda,2017,0.45
+ Saint Kitts and Nevis,2005,0.598
+ Saint Kitts and Nevis,2006,0.602
+ Saint Kitts and Nevis,2007,0.606
+ Saint Kitts and Nevis,2008,0.61
+ Saint Kitts and Nevis,2009,0.618
+ Saint Kitts and Nevis,2010,0.631
+ Saint Kitts and Nevis,2011,0.642
+ Saint Kitts and Nevis,2012,0.652
+ Saint Kitts and Nevis,2013,0.6629999999999999
+ Saint Kitts and Nevis,2014,0.674
+ Saint Kitts and Nevis,2015,0.674
+ Saint Kitts and Nevis,2016,0.674
+ Saint Kitts and Nevis,2017,0.68
+ Saint Lucia,2000,0.586
+ Saint Lucia,2001,0.585
+ Saint Lucia,2002,0.585
+ Saint Lucia,2003,0.584
+ Saint Lucia,2004,0.584
+ Saint Lucia,2005,0.594
+ Saint Lucia,2006,0.608
+ Saint Lucia,2007,0.607
+ Saint Lucia,2008,0.616
+ Saint Lucia,2009,0.623
+ Saint Lucia,2010,0.644
+ Saint Lucia,2011,0.6509999999999999
+ Saint Lucia,2012,0.645
+ Saint Lucia,2013,0.652
+ Saint Lucia,2014,0.6609999999999999
+ Saint Lucia,2015,0.6759999999999999
+ Saint Lucia,2016,0.6759999999999999
+ Saint Lucia,2017,0.6759999999999999
+ Saint Vincent and the Grenadines,2000,0.608
+ Saint Vincent and the Grenadines,2001,0.614
+ Saint Vincent and the Grenadines,2002,0.616
+ Saint Vincent and the Grenadines,2003,0.626
+ Saint Vincent and the Grenadines,2004,0.629
+ Saint Vincent and the Grenadines,2005,0.635
+ Saint Vincent and the Grenadines,2006,0.639
+ Saint Vincent and the Grenadines,2007,0.6459999999999999
+ Saint Vincent and the Grenadines,2008,0.643
+ Saint Vincent and the Grenadines,2009,0.648
+ Saint Vincent and the Grenadines,2010,0.657
+ Saint Vincent and the Grenadines,2011,0.6609999999999999
+ Saint Vincent and the Grenadines,2012,0.657
+ Saint Vincent and the Grenadines,2013,0.6609999999999999
+ Saint Vincent and the Grenadines,2014,0.654
+ Saint Vincent and the Grenadines,2015,0.655
+ Saint Vincent and the Grenadines,2016,0.655
+ Saint Vincent and the Grenadines,2017,0.655
+ Samoa,1990,0.5770000000000001
+ Samoa,1991,0.5820000000000001
+ Samoa,1992,0.588
+ Samoa,1993,0.593
+ Samoa,1994,0.598
+ Samoa,1995,0.604
+ Samoa,1996,0.609
+ Samoa,1997,0.61
+ Samoa,1998,0.619
+ Samoa,1999,0.627
+ Samoa,2000,0.627
+ Samoa,2001,0.632
+ Samoa,2002,0.637
+ Samoa,2003,0.642
+ Samoa,2004,0.647
+ Samoa,2005,0.652
+ Samoa,2006,0.6559999999999999
+ Samoa,2007,0.6609999999999999
+ Samoa,2008,0.6659999999999999
+ Samoa,2009,0.6709999999999999
+ Samoa,2010,0.6759999999999999
+ Samoa,2011,0.6809999999999999
+ Samoa,2012,0.684
+ Samoa,2013,0.688
+ Samoa,2014,0.688
+ Samoa,2015,0.6890000000000001
+ Samoa,2016,0.6920000000000001
+ Samoa,2017,0.6920000000000001
+ Sao Tome and Principe,1990,0.32299999999999995
+ Sao Tome and Principe,1991,0.331
+ Sao Tome and Principe,1992,0.33899999999999997
+ Sao Tome and Principe,1993,0.34700000000000003
+ Sao Tome and Principe,1994,0.355
+ Sao Tome and Principe,1995,0.363
+ Sao Tome and Principe,1996,0.371
+ Sao Tome and Principe,1997,0.379
+ Sao Tome and Principe,1998,0.386
+ Sao Tome and Principe,1999,0.39399999999999996
+ Sao Tome and Principe,2000,0.402
+ Sao Tome and Principe,2001,0.408
+ Sao Tome and Principe,2002,0.413
+ Sao Tome and Principe,2003,0.418
+ Sao Tome and Principe,2004,0.426
+ Sao Tome and Principe,2005,0.433
+ Sao Tome and Principe,2006,0.43700000000000006
+ Sao Tome and Principe,2007,0.441
+ Sao Tome and Principe,2008,0.436
+ Sao Tome and Principe,2009,0.45299999999999996
+ Sao Tome and Principe,2010,0.455
+ Sao Tome and Principe,2011,0.466
+ Sao Tome and Principe,2012,0.47600000000000003
+ Sao Tome and Principe,2013,0.489
+ Sao Tome and Principe,2014,0.5
+ Sao Tome and Principe,2015,0.534
+ Sao Tome and Principe,2016,0.546
+ Sao Tome and Principe,2017,0.557
+ Saudi Arabia,1990,0.489
+ Saudi Arabia,1991,0.495
+ Saudi Arabia,1992,0.502
+ Saudi Arabia,1993,0.508
+ Saudi Arabia,1994,0.515
+ Saudi Arabia,1995,0.522
+ Saudi Arabia,1996,0.529
+ Saudi Arabia,1997,0.535
+ Saudi Arabia,1998,0.542
+ Saudi Arabia,1999,0.5489999999999999
+ Saudi Arabia,2000,0.555
+ Saudi Arabia,2001,0.563
+ Saudi Arabia,2002,0.5720000000000001
+ Saudi Arabia,2003,0.58
+ Saudi Arabia,2004,0.594
+ Saudi Arabia,2005,0.604
+ Saudi Arabia,2006,0.619
+ Saudi Arabia,2007,0.634
+ Saudi Arabia,2008,0.649
+ Saudi Arabia,2009,0.664
+ Saudi Arabia,2010,0.691
+ Saudi Arabia,2011,0.7190000000000001
+ Saudi Arabia,2012,0.747
+ Saudi Arabia,2013,0.77
+ Saudi Arabia,2014,0.787
+ Saudi Arabia,2015,0.787
+ Saudi Arabia,2016,0.787
+ Saudi Arabia,2017,0.787
+ Senegal,1990,0.198
+ Senegal,1991,0.198
+ Senegal,1992,0.19899999999999998
+ Senegal,1993,0.2
+ Senegal,1994,0.201
+ Senegal,1995,0.20199999999999999
+ Senegal,1996,0.203
+ Senegal,1997,0.204
+ Senegal,1998,0.20600000000000002
+ Senegal,1999,0.20800000000000002
+ Senegal,2000,0.213
+ Senegal,2001,0.235
+ Senegal,2002,0.242
+ Senegal,2003,0.249
+ Senegal,2004,0.256
+ Senegal,2005,0.263
+ Senegal,2006,0.267
+ Senegal,2007,0.278
+ Senegal,2008,0.289
+ Senegal,2009,0.294
+ Senegal,2010,0.301
+ Senegal,2011,0.32
+ Senegal,2012,0.33299999999999996
+ Senegal,2013,0.34
+ Senegal,2014,0.34700000000000003
+ Senegal,2015,0.354
+ Senegal,2016,0.361
+ Senegal,2017,0.368
+ Serbia,1990,0.61
+ Serbia,1991,0.618
+ Serbia,1992,0.626
+ Serbia,1993,0.633
+ Serbia,1994,0.6409999999999999
+ Serbia,1995,0.648
+ Serbia,1996,0.654
+ Serbia,1997,0.66
+ Serbia,1998,0.6659999999999999
+ Serbia,1999,0.6709999999999999
+ Serbia,2000,0.677
+ Serbia,2001,0.684
+ Serbia,2002,0.684
+ Serbia,2003,0.693
+ Serbia,2004,0.7
+ Serbia,2005,0.713
+ Serbia,2006,0.716
+ Serbia,2007,0.716
+ Serbia,2008,0.7240000000000001
+ Serbia,2009,0.726
+ Serbia,2010,0.722
+ Serbia,2011,0.7440000000000001
+ Serbia,2012,0.741
+ Serbia,2013,0.7440000000000001
+ Serbia,2014,0.7559999999999999
+ Serbia,2015,0.7659999999999999
+ Serbia,2016,0.778
+ Serbia,2017,0.778
+ Seychelles,2000,0.588
+ Seychelles,2001,0.5760000000000001
+ Seychelles,2002,0.588
+ Seychelles,2003,0.595
+ Seychelles,2004,0.5920000000000001
+ Seychelles,2005,0.621
+ Seychelles,2006,0.585
+ Seychelles,2007,0.63
+ Seychelles,2008,0.634
+ Seychelles,2009,0.637
+ Seychelles,2010,0.642
+ Seychelles,2011,0.622
+ Seychelles,2012,0.6859999999999999
+ Seychelles,2013,0.7020000000000001
+ Seychelles,2014,0.715
+ Seychelles,2015,0.721
+ Seychelles,2016,0.7240000000000001
+ Seychelles,2017,0.727
+ Sierra Leone,1990,0.19
+ Sierra Leone,1991,0.184
+ Sierra Leone,1992,0.19399999999999998
+ Sierra Leone,1993,0.203
+ Sierra Leone,1994,0.213
+ Sierra Leone,1995,0.223
+ Sierra Leone,1996,0.23199999999999998
+ Sierra Leone,1997,0.242
+ Sierra Leone,1998,0.251
+ Sierra Leone,1999,0.26
+ Sierra Leone,2000,0.27
+ Sierra Leone,2001,0.27899999999999997
+ Sierra Leone,2002,0.287
+ Sierra Leone,2003,0.295
+ Sierra Leone,2004,0.303
+ Sierra Leone,2005,0.311
+ Sierra Leone,2006,0.318
+ Sierra Leone,2007,0.326
+ Sierra Leone,2008,0.33399999999999996
+ Sierra Leone,2009,0.342
+ Sierra Leone,2010,0.349
+ Sierra Leone,2011,0.35700000000000004
+ Sierra Leone,2012,0.364
+ Sierra Leone,2013,0.37200000000000005
+ Sierra Leone,2014,0.374
+ Sierra Leone,2015,0.376
+ Sierra Leone,2016,0.382
+ Sierra Leone,2017,0.39
+ Singapore,1990,0.488
+ Singapore,1991,0.503
+ Singapore,1992,0.519
+ Singapore,1993,0.535
+ Singapore,1994,0.551
+ Singapore,1995,0.5660000000000001
+ Singapore,1996,0.583
+ Singapore,1997,0.6
+ Singapore,1998,0.616
+ Singapore,1999,0.633
+ Singapore,2000,0.649
+ Singapore,2001,0.657
+ Singapore,2002,0.67
+ Singapore,2003,0.6809999999999999
+ Singapore,2004,0.688
+ Singapore,2005,0.735
+ Singapore,2006,0.7290000000000001
+ Singapore,2007,0.735
+ Singapore,2008,0.75
+ Singapore,2009,0.753
+ Singapore,2010,0.795
+ Singapore,2011,0.8029999999999999
+ Singapore,2012,0.816
+ Singapore,2013,0.818
+ Singapore,2014,0.828
+ Singapore,2015,0.83
+ Singapore,2016,0.83
+ Singapore,2017,0.8320000000000001
+ Slovakia,1990,0.679
+ Slovakia,1991,0.6859999999999999
+ Slovakia,1992,0.693
+ Slovakia,1993,0.6990000000000001
+ Slovakia,1994,0.706
+ Slovakia,1995,0.7140000000000001
+ Slovakia,1996,0.713
+ Slovakia,1997,0.708
+ Slovakia,1998,0.716
+ Slovakia,1999,0.713
+ Slovakia,2000,0.7120000000000001
+ Slovakia,2001,0.7040000000000001
+ Slovakia,2002,0.718
+ Slovakia,2003,0.7290000000000001
+ Slovakia,2004,0.74
+ Slovakia,2005,0.753
+ Slovakia,2006,0.765
+ Slovakia,2007,0.779
+ Slovakia,2008,0.7879999999999999
+ Slovakia,2009,0.795
+ Slovakia,2010,0.802
+ Slovakia,2011,0.818
+ Slovakia,2012,0.8240000000000001
+ Slovakia,2013,0.823
+ Slovakia,2014,0.821
+ Slovakia,2015,0.831
+ Slovakia,2016,0.831
+ Slovakia,2017,0.831
+ Slovenia,1990,0.696
+ Slovenia,1991,0.6990000000000001
+ Slovenia,1992,0.7090000000000001
+ Slovenia,1993,0.708
+ Slovenia,1994,0.7140000000000001
+ Slovenia,1995,0.7240000000000001
+ Slovenia,1996,0.732
+ Slovenia,1997,0.7440000000000001
+ Slovenia,1998,0.7609999999999999
+ Slovenia,1999,0.7879999999999999
+ Slovenia,2000,0.795
+ Slovenia,2001,0.818
+ Slovenia,2002,0.831
+ Slovenia,2003,0.843
+ Slovenia,2004,0.852
+ Slovenia,2005,0.8540000000000001
+ Slovenia,2006,0.862
+ Slovenia,2007,0.862
+ Slovenia,2008,0.868
+ Slovenia,2009,0.873
+ Slovenia,2010,0.878
+ Slovenia,2011,0.878
+ Slovenia,2012,0.8590000000000001
+ Slovenia,2013,0.8809999999999999
+ Slovenia,2014,0.8759999999999999
+ Slovenia,2015,0.879
+ Slovenia,2016,0.887
+ Slovenia,2017,0.8859999999999999
+ Solomon Islands,1999,0.35
+ Solomon Islands,2000,0.336
+ Solomon Islands,2001,0.35700000000000004
+ Solomon Islands,2002,0.377
+ Solomon Islands,2003,0.38299999999999995
+ Solomon Islands,2004,0.38799999999999996
+ Solomon Islands,2005,0.39399999999999996
+ Solomon Islands,2006,0.413
+ Solomon Islands,2007,0.42100000000000004
+ Solomon Islands,2008,0.426
+ Solomon Islands,2009,0.43200000000000005
+ Solomon Islands,2010,0.43700000000000006
+ Solomon Islands,2011,0.442
+ Solomon Islands,2012,0.447
+ Solomon Islands,2013,0.45299999999999996
+ Solomon Islands,2014,0.45799999999999996
+ Solomon Islands,2015,0.465
+ Solomon Islands,2016,0.465
+ Solomon Islands,2017,0.469
+ South Africa,1990,0.532
+ South Africa,1991,0.552
+ South Africa,1992,0.581
+ South Africa,1993,0.603
+ South Africa,1994,0.617
+ South Africa,1995,0.636
+ South Africa,1996,0.639
+ South Africa,1997,0.643
+ South Africa,1998,0.6459999999999999
+ South Africa,1999,0.649
+ South Africa,2000,0.652
+ South Africa,2001,0.609
+ South Africa,2002,0.644
+ South Africa,2003,0.6509999999999999
+ South Africa,2004,0.653
+ South Africa,2005,0.655
+ South Africa,2006,0.6559999999999999
+ South Africa,2007,0.66
+ South Africa,2008,0.6809999999999999
+ South Africa,2009,0.6940000000000001
+ South Africa,2010,0.69
+ South Africa,2011,0.6859999999999999
+ South Africa,2012,0.685
+ South Africa,2013,0.695
+ South Africa,2014,0.703
+ South Africa,2015,0.708
+ South Africa,2016,0.708
+ South Africa,2017,0.708
+ South Sudan,2010,0.297
+ South Sudan,2011,0.297
+ South Sudan,2012,0.297
+ South Sudan,2013,0.297
+ South Sudan,2014,0.297
+ South Sudan,2015,0.297
+ South Sudan,2016,0.297
+ South Sudan,2017,0.297
+ Spain,1990,0.591
+ Spain,1991,0.609
+ Spain,1992,0.627
+ Spain,1993,0.6509999999999999
+ Spain,1994,0.6709999999999999
+ Spain,1995,0.687
+ Spain,1996,0.6970000000000001
+ Spain,1997,0.701
+ Spain,1998,0.7040000000000001
+ Spain,1999,0.7090000000000001
+ Spain,2000,0.715
+ Spain,2001,0.716
+ Spain,2002,0.7170000000000001
+ Spain,2003,0.72
+ Spain,2004,0.725
+ Spain,2005,0.738
+ Spain,2006,0.7440000000000001
+ Spain,2007,0.7509999999999999
+ Spain,2008,0.758
+ Spain,2009,0.764
+ Spain,2010,0.78
+ Spain,2011,0.7929999999999999
+ Spain,2012,0.8
+ Spain,2013,0.804
+ Spain,2014,0.813
+ Spain,2015,0.8190000000000001
+ Spain,2016,0.8240000000000001
+ Spain,2017,0.8240000000000001
+ Sri Lanka,1990,0.5920000000000001
+ Sri Lanka,1991,0.6
+ Sri Lanka,1992,0.608
+ Sri Lanka,1993,0.606
+ Sri Lanka,1994,0.625
+ Sri Lanka,1995,0.633
+ Sri Lanka,1996,0.642
+ Sri Lanka,1997,0.652
+ Sri Lanka,1998,0.6609999999999999
+ Sri Lanka,1999,0.67
+ Sri Lanka,2000,0.679
+ Sri Lanka,2001,0.6890000000000001
+ Sri Lanka,2002,0.6920000000000001
+ Sri Lanka,2003,0.698
+ Sri Lanka,2004,0.7040000000000001
+ Sri Lanka,2005,0.71
+ Sri Lanka,2006,0.716
+ Sri Lanka,2007,0.721
+ Sri Lanka,2008,0.738
+ Sri Lanka,2009,0.738
+ Sri Lanka,2010,0.7390000000000001
+ Sri Lanka,2011,0.743
+ Sri Lanka,2012,0.7440000000000001
+ Sri Lanka,2013,0.747
+ Sri Lanka,2014,0.7490000000000001
+ Sri Lanka,2015,0.7509999999999999
+ Sri Lanka,2016,0.7490000000000001
+ Sri Lanka,2017,0.7490000000000001
+ Sudan,1990,0.159
+ Sudan,1991,0.16699999999999998
+ Sudan,1992,0.175
+ Sudan,1993,0.183
+ Sudan,1994,0.191
+ Sudan,1995,0.198
+ Sudan,1996,0.20600000000000002
+ Sudan,1997,0.214
+ Sudan,1998,0.222
+ Sudan,1999,0.23
+ Sudan,2000,0.23800000000000002
+ Sudan,2001,0.244
+ Sudan,2002,0.249
+ Sudan,2003,0.255
+ Sudan,2004,0.268
+ Sudan,2005,0.27399999999999997
+ Sudan,2006,0.28300000000000003
+ Sudan,2007,0.282
+ Sudan,2008,0.298
+ Sudan,2009,0.305
+ Sudan,2010,0.306
+ Sudan,2011,0.299
+ Sudan,2012,0.311
+ Sudan,2013,0.316
+ Sudan,2014,0.32
+ Sudan,2015,0.324
+ Sudan,2016,0.326
+ Sudan,2017,0.32799999999999996
+ Suriname,2004,0.568
+ Suriname,2005,0.5720000000000001
+ Suriname,2006,0.5760000000000001
+ Suriname,2007,0.579
+ Suriname,2008,0.583
+ Suriname,2009,0.542
+ Suriname,2010,0.602
+ Suriname,2011,0.607
+ Suriname,2012,0.612
+ Suriname,2013,0.617
+ Suriname,2014,0.621
+ Suriname,2015,0.632
+ Suriname,2016,0.636
+ Suriname,2017,0.636
+ Sweden,1990,0.71
+ Sweden,1991,0.715
+ Sweden,1992,0.725
+ Sweden,1993,0.779
+ Sweden,1994,0.794
+ Sweden,1995,0.807
+ Sweden,1996,0.821
+ Sweden,1997,0.845
+ Sweden,1998,0.8740000000000001
+ Sweden,1999,0.878
+ Sweden,2000,0.8809999999999999
+ Sweden,2001,0.883
+ Sweden,2002,0.8859999999999999
+ Sweden,2003,0.894
+ Sweden,2004,0.852
+ Sweden,2005,0.853
+ Sweden,2006,0.8540000000000001
+ Sweden,2007,0.8540000000000001
+ Sweden,2008,0.843
+ Sweden,2009,0.845
+ Sweden,2010,0.853
+ Sweden,2011,0.851
+ Sweden,2012,0.8540000000000001
+ Sweden,2013,0.863
+ Sweden,2014,0.882
+ Sweden,2015,0.902
+ Sweden,2016,0.904
+ Sweden,2017,0.904
+ Switzerland,1990,0.695
+ Switzerland,1991,0.701
+ Switzerland,1992,0.706
+ Switzerland,1993,0.716
+ Switzerland,1994,0.721
+ Switzerland,1995,0.727
+ Switzerland,1996,0.741
+ Switzerland,1997,0.758
+ Switzerland,1998,0.7759999999999999
+ Switzerland,1999,0.789
+ Switzerland,2000,0.8029999999999999
+ Switzerland,2001,0.807
+ Switzerland,2002,0.805
+ Switzerland,2003,0.813
+ Switzerland,2004,0.8190000000000001
+ Switzerland,2005,0.823
+ Switzerland,2006,0.8340000000000001
+ Switzerland,2007,0.8440000000000001
+ Switzerland,2008,0.855
+ Switzerland,2009,0.873
+ Switzerland,2010,0.877
+ Switzerland,2011,0.88
+ Switzerland,2012,0.885
+ Switzerland,2013,0.889
+ Switzerland,2014,0.892
+ Switzerland,2015,0.894
+ Switzerland,2016,0.897
+ Switzerland,2017,0.897
+ Syrian Arab Republic,1990,0.41700000000000004
+ Syrian Arab Republic,1991,0.419
+ Syrian Arab Republic,1992,0.419
+ Syrian Arab Republic,1993,0.419
+ Syrian Arab Republic,1994,0.419
+ Syrian Arab Republic,1995,0.419
+ Syrian Arab Republic,1996,0.42200000000000004
+ Syrian Arab Republic,1997,0.424
+ Syrian Arab Republic,1998,0.42700000000000005
+ Syrian Arab Republic,1999,0.43
+ Syrian Arab Republic,2000,0.433
+ Syrian Arab Republic,2001,0.444
+ Syrian Arab Republic,2002,0.442
+ Syrian Arab Republic,2003,0.46399999999999997
+ Syrian Arab Republic,2004,0.485
+ Syrian Arab Republic,2005,0.509
+ Syrian Arab Republic,2006,0.522
+ Syrian Arab Republic,2007,0.537
+ Syrian Arab Republic,2008,0.5329999999999999
+ Syrian Arab Republic,2009,0.542
+ Syrian Arab Republic,2010,0.537
+ Syrian Arab Republic,2011,0.5479999999999999
+ Syrian Arab Republic,2012,0.561
+ Syrian Arab Republic,2013,0.451
+ Syrian Arab Republic,2014,0.431
+ Syrian Arab Republic,2015,0.41200000000000003
+ Syrian Arab Republic,2016,0.41200000000000003
+ Syrian Arab Republic,2017,0.41200000000000003
+ Tajikistan,1990,0.652
+ Tajikistan,1991,0.6579999999999999
+ Tajikistan,1992,0.6629999999999999
+ Tajikistan,1993,0.6459999999999999
+ Tajikistan,1994,0.633
+ Tajikistan,1995,0.639
+ Tajikistan,1996,0.634
+ Tajikistan,1997,0.63
+ Tajikistan,1998,0.625
+ Tajikistan,1999,0.621
+ Tajikistan,2000,0.624
+ Tajikistan,2001,0.627
+ Tajikistan,2002,0.634
+ Tajikistan,2003,0.645
+ Tajikistan,2004,0.6459999999999999
+ Tajikistan,2005,0.649
+ Tajikistan,2006,0.652
+ Tajikistan,2007,0.649
+ Tajikistan,2008,0.6729999999999999
+ Tajikistan,2009,0.6709999999999999
+ Tajikistan,2010,0.6709999999999999
+ Tajikistan,2011,0.6679999999999999
+ Tajikistan,2012,0.6679999999999999
+ Tajikistan,2013,0.667
+ Tajikistan,2014,0.664
+ Tajikistan,2015,0.662
+ Tajikistan,2016,0.66
+ Tajikistan,2017,0.659
+ Tanzania (United Republic of),1990,0.273
+ Tanzania (United Republic of),1991,0.278
+ Tanzania (United Republic of),1992,0.28
+ Tanzania (United Republic of),1993,0.284
+ Tanzania (United Republic of),1994,0.285
+ Tanzania (United Republic of),1995,0.287
+ Tanzania (United Republic of),1996,0.28600000000000003
+ Tanzania (United Republic of),1997,0.28800000000000003
+ Tanzania (United Republic of),1998,0.297
+ Tanzania (United Republic of),1999,0.306
+ Tanzania (United Republic of),2000,0.314
+ Tanzania (United Republic of),2001,0.32299999999999995
+ Tanzania (United Republic of),2002,0.332
+ Tanzania (United Republic of),2003,0.34299999999999997
+ Tanzania (United Republic of),2004,0.354
+ Tanzania (United Republic of),2005,0.37
+ Tanzania (United Republic of),2006,0.38
+ Tanzania (United Republic of),2007,0.39
+ Tanzania (United Republic of),2008,0.4
+ Tanzania (United Republic of),2009,0.41
+ Tanzania (United Republic of),2010,0.41600000000000004
+ Tanzania (United Republic of),2011,0.415
+ Tanzania (United Republic of),2012,0.426
+ Tanzania (United Republic of),2013,0.41200000000000003
+ Tanzania (United Republic of),2014,0.42
+ Tanzania (United Republic of),2015,0.441
+ Tanzania (United Republic of),2016,0.441
+ Tanzania (United Republic of),2017,0.441
+ Thailand,1990,0.387
+ Thailand,1991,0.39799999999999996
+ Thailand,1992,0.406
+ Thailand,1993,0.41600000000000004
+ Thailand,1994,0.425
+ Thailand,1995,0.433
+ Thailand,1996,0.446
+ Thailand,1997,0.46299999999999997
+ Thailand,1998,0.485
+ Thailand,1999,0.501
+ Thailand,2000,0.517
+ Thailand,2001,0.532
+ Thailand,2002,0.544
+ Thailand,2003,0.555
+ Thailand,2004,0.5670000000000001
+ Thailand,2005,0.585
+ Thailand,2006,0.588
+ Thailand,2007,0.607
+ Thailand,2008,0.611
+ Thailand,2009,0.618
+ Thailand,2010,0.624
+ Thailand,2011,0.626
+ Thailand,2012,0.626
+ Thailand,2013,0.617
+ Thailand,2014,0.629
+ Thailand,2015,0.64
+ Thailand,2016,0.65
+ Thailand,2017,0.6609999999999999
+ The former Yugoslav Republic of Macedonia,2000,0.544
+ The former Yugoslav Republic of Macedonia,2001,0.557
+ The former Yugoslav Republic of Macedonia,2002,0.569
+ The former Yugoslav Republic of Macedonia,2003,0.581
+ The former Yugoslav Republic of Macedonia,2004,0.593
+ The former Yugoslav Republic of Macedonia,2005,0.608
+ The former Yugoslav Republic of Macedonia,2006,0.616
+ The former Yugoslav Republic of Macedonia,2007,0.624
+ The former Yugoslav Republic of Macedonia,2008,0.653
+ The former Yugoslav Republic of Macedonia,2009,0.657
+ The former Yugoslav Republic of Macedonia,2010,0.662
+ The former Yugoslav Republic of Macedonia,2011,0.667
+ The former Yugoslav Republic of Macedonia,2012,0.67
+ The former Yugoslav Republic of Macedonia,2013,0.6729999999999999
+ The former Yugoslav Republic of Macedonia,2014,0.6759999999999999
+ The former Yugoslav Republic of Macedonia,2015,0.6890000000000001
+ The former Yugoslav Republic of Macedonia,2016,0.691
+ The former Yugoslav Republic of Macedonia,2017,0.691
+ Timor-Leste,2000,0.364
+ Timor-Leste,2001,0.364
+ Timor-Leste,2002,0.37
+ Timor-Leste,2003,0.384
+ Timor-Leste,2004,0.39899999999999997
+ Timor-Leste,2005,0.414
+ Timor-Leste,2006,0.428
+ Timor-Leste,2007,0.44299999999999995
+ Timor-Leste,2008,0.46799999999999997
+ Timor-Leste,2009,0.47600000000000003
+ Timor-Leste,2010,0.493
+ Timor-Leste,2011,0.503
+ Timor-Leste,2012,0.503
+ Timor-Leste,2013,0.504
+ Timor-Leste,2014,0.504
+ Timor-Leste,2015,0.505
+ Timor-Leste,2016,0.505
+ Timor-Leste,2017,0.505
+ Togo,1990,0.31
+ Togo,1991,0.322
+ Togo,1992,0.31
+ Togo,1993,0.316
+ Togo,1994,0.321
+ Togo,1995,0.348
+ Togo,1996,0.363
+ Togo,1997,0.371
+ Togo,1998,0.379
+ Togo,1999,0.387
+ Togo,2000,0.395
+ Togo,2001,0.405
+ Togo,2002,0.41
+ Togo,2003,0.41600000000000004
+ Togo,2004,0.42100000000000004
+ Togo,2005,0.425
+ Togo,2006,0.43700000000000006
+ Togo,2007,0.423
+ Togo,2008,0.436
+ Togo,2009,0.45
+ Togo,2010,0.46399999999999997
+ Togo,2011,0.47700000000000004
+ Togo,2012,0.483
+ Togo,2013,0.489
+ Togo,2014,0.499
+ Togo,2015,0.5
+ Togo,2016,0.506
+ Togo,2017,0.506
+ Tonga,1990,0.6559999999999999
+ Tonga,1991,0.662
+ Tonga,1992,0.6679999999999999
+ Tonga,1993,0.6729999999999999
+ Tonga,1994,0.679
+ Tonga,1995,0.685
+ Tonga,1996,0.685
+ Tonga,1997,0.685
+ Tonga,1998,0.684
+ Tonga,1999,0.684
+ Tonga,2000,0.6709999999999999
+ Tonga,2001,0.679
+ Tonga,2002,0.6859999999999999
+ Tonga,2003,0.7120000000000001
+ Tonga,2004,0.7120000000000001
+ Tonga,2005,0.7120000000000001
+ Tonga,2006,0.7170000000000001
+ Tonga,2007,0.73
+ Tonga,2008,0.7390000000000001
+ Tonga,2009,0.748
+ Tonga,2010,0.757
+ Tonga,2011,0.7609999999999999
+ Tonga,2012,0.7609999999999999
+ Tonga,2013,0.763
+ Tonga,2014,0.7659999999999999
+ Tonga,2015,0.769
+ Tonga,2016,0.769
+ Tonga,2017,0.77
+ Trinidad and Tobago,1990,0.575
+ Trinidad and Tobago,1991,0.575
+ Trinidad and Tobago,1992,0.5770000000000001
+ Trinidad and Tobago,1993,0.5820000000000001
+ Trinidad and Tobago,1994,0.589
+ Trinidad and Tobago,1995,0.597
+ Trinidad and Tobago,1996,0.604
+ Trinidad and Tobago,1997,0.611
+ Trinidad and Tobago,1998,0.619
+ Trinidad and Tobago,1999,0.626
+ Trinidad and Tobago,2000,0.634
+ Trinidad and Tobago,2001,0.6409999999999999
+ Trinidad and Tobago,2002,0.648
+ Trinidad and Tobago,2003,0.655
+ Trinidad and Tobago,2004,0.667
+ Trinidad and Tobago,2005,0.6759999999999999
+ Trinidad and Tobago,2006,0.674
+ Trinidad and Tobago,2007,0.696
+ Trinidad and Tobago,2008,0.7040000000000001
+ Trinidad and Tobago,2009,0.706
+ Trinidad and Tobago,2010,0.708
+ Trinidad and Tobago,2011,0.71
+ Trinidad and Tobago,2012,0.7120000000000001
+ Trinidad and Tobago,2013,0.7140000000000001
+ Trinidad and Tobago,2014,0.7140000000000001
+ Trinidad and Tobago,2015,0.715
+ Trinidad and Tobago,2016,0.722
+ Trinidad and Tobago,2017,0.722
+ Tunisia,1990,0.406
+ Tunisia,1991,0.413
+ Tunisia,1992,0.42
+ Tunisia,1993,0.431
+ Tunisia,1994,0.44799999999999995
+ Tunisia,1995,0.45899999999999996
+ Tunisia,1996,0.47
+ Tunisia,1997,0.47700000000000004
+ Tunisia,1998,0.496
+ Tunisia,1999,0.513
+ Tunisia,2000,0.526
+ Tunisia,2001,0.539
+ Tunisia,2002,0.5489999999999999
+ Tunisia,2003,0.557
+ Tunisia,2004,0.573
+ Tunisia,2005,0.586
+ Tunisia,2006,0.594
+ Tunisia,2007,0.601
+ Tunisia,2008,0.612
+ Tunisia,2009,0.614
+ Tunisia,2010,0.625
+ Tunisia,2011,0.635
+ Tunisia,2012,0.633
+ Tunisia,2013,0.638
+ Tunisia,2014,0.64
+ Tunisia,2015,0.6459999999999999
+ Tunisia,2016,0.6559999999999999
+ Tunisia,2017,0.659
+ Turkey,1990,0.39899999999999997
+ Turkey,1991,0.40399999999999997
+ Turkey,1992,0.41
+ Turkey,1993,0.41600000000000004
+ Turkey,1994,0.42100000000000004
+ Turkey,1995,0.42700000000000005
+ Turkey,1996,0.435
+ Turkey,1997,0.442
+ Turkey,1998,0.45899999999999996
+ Turkey,1999,0.47700000000000004
+ Turkey,2000,0.493
+ Turkey,2001,0.51
+ Turkey,2002,0.524
+ Turkey,2003,0.53
+ Turkey,2004,0.53
+ Turkey,2005,0.53
+ Turkey,2006,0.545
+ Turkey,2007,0.5539999999999999
+ Turkey,2008,0.555
+ Turkey,2009,0.578
+ Turkey,2010,0.608
+ Turkey,2011,0.639
+ Turkey,2012,0.6509999999999999
+ Turkey,2013,0.667
+ Turkey,2014,0.6779999999999999
+ Turkey,2015,0.6829999999999999
+ Turkey,2016,0.6890000000000001
+ Turkey,2017,0.6890000000000001
+ Turkmenistan,2010,0.624
+ Turkmenistan,2011,0.625
+ Turkmenistan,2012,0.626
+ Turkmenistan,2013,0.626
+ Turkmenistan,2014,0.627
+ Turkmenistan,2015,0.627
+ Turkmenistan,2016,0.629
+ Turkmenistan,2017,0.626
+ Uganda,1990,0.25
+ Uganda,1991,0.254
+ Uganda,1992,0.243
+ Uganda,1993,0.256
+ Uganda,1994,0.262
+ Uganda,1995,0.268
+ Uganda,1996,0.3
+ Uganda,1997,0.33299999999999996
+ Uganda,1998,0.365
+ Uganda,1999,0.39799999999999996
+ Uganda,2000,0.43
+ Uganda,2001,0.439
+ Uganda,2002,0.45799999999999996
+ Uganda,2003,0.46399999999999997
+ Uganda,2004,0.442
+ Uganda,2005,0.445
+ Uganda,2006,0.45299999999999996
+ Uganda,2007,0.461
+ Uganda,2008,0.473
+ Uganda,2009,0.47700000000000004
+ Uganda,2010,0.493
+ Uganda,2011,0.48700000000000004
+ Uganda,2012,0.483
+ Uganda,2013,0.489
+ Uganda,2014,0.495
+ Uganda,2015,0.501
+ Uganda,2016,0.504
+ Uganda,2017,0.525
+ Ukraine,1990,0.648
+ Ukraine,1991,0.654
+ Ukraine,1992,0.654
+ Ukraine,1993,0.655
+ Ukraine,1994,0.659
+ Ukraine,1995,0.672
+ Ukraine,1996,0.684
+ Ukraine,1997,0.696
+ Ukraine,1998,0.708
+ Ukraine,1999,0.715
+ Ukraine,2000,0.7170000000000001
+ Ukraine,2001,0.728
+ Ukraine,2002,0.742
+ Ukraine,2003,0.754
+ Ukraine,2004,0.755
+ Ukraine,2005,0.7759999999999999
+ Ukraine,2006,0.7809999999999999
+ Ukraine,2007,0.784
+ Ukraine,2008,0.7859999999999999
+ Ukraine,2009,0.787
+ Ukraine,2010,0.7879999999999999
+ Ukraine,2011,0.787
+ Ukraine,2012,0.7909999999999999
+ Ukraine,2013,0.7909999999999999
+ Ukraine,2014,0.794
+ Ukraine,2015,0.794
+ Ukraine,2016,0.794
+ Ukraine,2017,0.794
+ United Arab Emirates,1990,0.484
+ United Arab Emirates,1991,0.504
+ United Arab Emirates,1992,0.509
+ United Arab Emirates,1993,0.52
+ United Arab Emirates,1994,0.534
+ United Arab Emirates,1995,0.5479999999999999
+ United Arab Emirates,1996,0.56
+ United Arab Emirates,1997,0.5720000000000001
+ United Arab Emirates,1998,0.585
+ United Arab Emirates,1999,0.597
+ United Arab Emirates,2000,0.609
+ United Arab Emirates,2001,0.618
+ United Arab Emirates,2002,0.627
+ United Arab Emirates,2003,0.636
+ United Arab Emirates,2004,0.645
+ United Arab Emirates,2005,0.6579999999999999
+ United Arab Emirates,2006,0.667
+ United Arab Emirates,2007,0.677
+ United Arab Emirates,2008,0.6859999999999999
+ United Arab Emirates,2009,0.695
+ United Arab Emirates,2010,0.703
+ United Arab Emirates,2011,0.711
+ United Arab Emirates,2012,0.7190000000000001
+ United Arab Emirates,2013,0.727
+ United Arab Emirates,2014,0.732
+ United Arab Emirates,2015,0.737
+ United Arab Emirates,2016,0.738
+ United Arab Emirates,2017,0.738
+ United Kingdom,1990,0.644
+ United Kingdom,1991,0.675
+ United Kingdom,1992,0.7070000000000001
+ United Kingdom,1993,0.736
+ United Kingdom,1994,0.764
+ United Kingdom,1995,0.7929999999999999
+ United Kingdom,1996,0.8009999999999999
+ United Kingdom,1997,0.809
+ United Kingdom,1998,0.816
+ United Kingdom,1999,0.828
+ United Kingdom,2000,0.836
+ United Kingdom,2001,0.84
+ United Kingdom,2002,0.8420000000000001
+ United Kingdom,2003,0.845
+ United Kingdom,2004,0.861
+ United Kingdom,2005,0.867
+ United Kingdom,2006,0.8590000000000001
+ United Kingdom,2007,0.861
+ United Kingdom,2008,0.872
+ United Kingdom,2009,0.884
+ United Kingdom,2010,0.8959999999999999
+ United Kingdom,2011,0.872
+ United Kingdom,2012,0.866
+ United Kingdom,2013,0.912
+ United Kingdom,2014,0.92
+ United Kingdom,2015,0.9109999999999999
+ United Kingdom,2016,0.914
+ United Kingdom,2017,0.914
+ United States,1990,0.836
+ United States,1991,0.84
+ United States,1992,0.85
+ United States,1993,0.8590000000000001
+ United States,1994,0.863
+ United States,1995,0.865
+ United States,1996,0.8640000000000001
+ United States,1997,0.865
+ United States,1998,0.866
+ United States,1999,0.863
+ United States,2000,0.8540000000000001
+ United States,2001,0.8590000000000001
+ United States,2002,0.861
+ United States,2003,0.866
+ United States,2004,0.867
+ United States,2005,0.87
+ United States,2006,0.8740000000000001
+ United States,2007,0.88
+ United States,2008,0.893
+ United States,2009,0.8959999999999999
+ United States,2010,0.902
+ United States,2011,0.907
+ United States,2012,0.9059999999999999
+ United States,2013,0.897
+ United States,2014,0.898
+ United States,2015,0.9
+ United States,2016,0.903
+ United States,2017,0.903
+ Uruguay,1990,0.597
+ Uruguay,1991,0.601
+ Uruguay,1992,0.597
+ Uruguay,1993,0.601
+ Uruguay,1994,0.605
+ Uruguay,1995,0.609
+ Uruguay,1996,0.615
+ Uruguay,1997,0.629
+ Uruguay,1998,0.643
+ Uruguay,1999,0.648
+ Uruguay,2000,0.6609999999999999
+ Uruguay,2001,0.674
+ Uruguay,2002,0.685
+ Uruguay,2003,0.6970000000000001
+ Uruguay,2004,0.6970000000000001
+ Uruguay,2005,0.688
+ Uruguay,2006,0.693
+ Uruguay,2007,0.6859999999999999
+ Uruguay,2008,0.688
+ Uruguay,2009,0.713
+ Uruguay,2010,0.687
+ Uruguay,2011,0.703
+ Uruguay,2012,0.7170000000000001
+ Uruguay,2013,0.731
+ Uruguay,2014,0.736
+ Uruguay,2015,0.731
+ Uruguay,2016,0.733
+ Uruguay,2017,0.733
+ Uzbekistan,2000,0.601
+ Uzbekistan,2001,0.614
+ Uzbekistan,2002,0.627
+ Uzbekistan,2003,0.634
+ Uzbekistan,2004,0.639
+ Uzbekistan,2005,0.645
+ Uzbekistan,2006,0.649
+ Uzbekistan,2007,0.657
+ Uzbekistan,2008,0.659
+ Uzbekistan,2009,0.667
+ Uzbekistan,2010,0.674
+ Uzbekistan,2011,0.6809999999999999
+ Uzbekistan,2012,0.6920000000000001
+ Uzbekistan,2013,0.6990000000000001
+ Uzbekistan,2014,0.7020000000000001
+ Uzbekistan,2015,0.7040000000000001
+ Uzbekistan,2016,0.708
+ Uzbekistan,2017,0.718
+ Vanuatu,2005,0.512
+ Vanuatu,2006,0.514
+ Vanuatu,2007,0.516
+ Vanuatu,2008,0.519
+ Vanuatu,2009,0.521
+ Vanuatu,2010,0.523
+ Vanuatu,2011,0.525
+ Vanuatu,2012,0.527
+ Vanuatu,2013,0.529
+ Vanuatu,2014,0.529
+ Vanuatu,2015,0.529
+ Vanuatu,2016,0.529
+ Vanuatu,2017,0.529
+ Venezuela (Bolivarian Republic of),1990,0.444
+ Venezuela (Bolivarian Republic of),1991,0.457
+ Venezuela (Bolivarian Republic of),1992,0.466
+ Venezuela (Bolivarian Republic of),1993,0.47100000000000003
+ Venezuela (Bolivarian Republic of),1994,0.475
+ Venezuela (Bolivarian Republic of),1995,0.48
+ Venezuela (Bolivarian Republic of),1996,0.484
+ Venezuela (Bolivarian Republic of),1997,0.48700000000000004
+ Venezuela (Bolivarian Republic of),1998,0.49200000000000005
+ Venezuela (Bolivarian Republic of),1999,0.502
+ Venezuela (Bolivarian Republic of),2000,0.503
+ Venezuela (Bolivarian Republic of),2001,0.518
+ Venezuela (Bolivarian Republic of),2002,0.5489999999999999
+ Venezuela (Bolivarian Republic of),2003,0.556
+ Venezuela (Bolivarian Republic of),2004,0.569
+ Venezuela (Bolivarian Republic of),2005,0.591
+ Venezuela (Bolivarian Republic of),2006,0.611
+ Venezuela (Bolivarian Republic of),2007,0.642
+ Venezuela (Bolivarian Republic of),2008,0.662
+ Venezuela (Bolivarian Republic of),2009,0.6679999999999999
+ Venezuela (Bolivarian Republic of),2010,0.6859999999999999
+ Venezuela (Bolivarian Republic of),2011,0.718
+ Venezuela (Bolivarian Republic of),2012,0.7190000000000001
+ Venezuela (Bolivarian Republic of),2013,0.7240000000000001
+ Venezuela (Bolivarian Republic of),2014,0.7290000000000001
+ Venezuela (Bolivarian Republic of),2015,0.733
+ Venezuela (Bolivarian Republic of),2016,0.733
+ Venezuela (Bolivarian Republic of),2017,0.741
+ Viet Nam,1990,0.348
+ Viet Nam,1991,0.361
+ Viet Nam,1992,0.374
+ Viet Nam,1993,0.387
+ Viet Nam,1994,0.4
+ Viet Nam,1995,0.413
+ Viet Nam,1996,0.42700000000000005
+ Viet Nam,1997,0.415
+ Viet Nam,1998,0.455
+ Viet Nam,1999,0.46399999999999997
+ Viet Nam,2000,0.474
+ Viet Nam,2001,0.485
+ Viet Nam,2002,0.496
+ Viet Nam,2003,0.507
+ Viet Nam,2004,0.518
+ Viet Nam,2005,0.528
+ Viet Nam,2006,0.539
+ Viet Nam,2007,0.55
+ Viet Nam,2008,0.561
+ Viet Nam,2009,0.598
+ Viet Nam,2010,0.583
+ Viet Nam,2011,0.602
+ Viet Nam,2012,0.608
+ Viet Nam,2013,0.614
+ Viet Nam,2014,0.613
+ Viet Nam,2015,0.619
+ Viet Nam,2016,0.621
+ Viet Nam,2017,0.626
+ Yemen,1990,0.21899999999999997
+ Yemen,1991,0.222
+ Yemen,1992,0.22399999999999998
+ Yemen,1993,0.22699999999999998
+ Yemen,1994,0.23
+ Yemen,1995,0.233
+ Yemen,1996,0.237
+ Yemen,1997,0.24100000000000002
+ Yemen,1998,0.244
+ Yemen,1999,0.249
+ Yemen,2000,0.258
+ Yemen,2001,0.268
+ Yemen,2002,0.278
+ Yemen,2003,0.287
+ Yemen,2004,0.297
+ Yemen,2005,0.303
+ Yemen,2006,0.305
+ Yemen,2007,0.308
+ Yemen,2008,0.311
+ Yemen,2009,0.318
+ Yemen,2010,0.326
+ Yemen,2011,0.34299999999999997
+ Yemen,2012,0.349
+ Yemen,2013,0.349
+ Yemen,2014,0.349
+ Yemen,2015,0.349
+ Yemen,2016,0.349
+ Yemen,2017,0.349
+ Zambia,1990,0.365
+ Zambia,1991,0.38
+ Zambia,1992,0.396
+ Zambia,1993,0.41100000000000003
+ Zambia,1994,0.426
+ Zambia,1995,0.442
+ Zambia,1996,0.447
+ Zambia,1997,0.452
+ Zambia,1998,0.457
+ Zambia,1999,0.46299999999999997
+ Zambia,2000,0.46799999999999997
+ Zambia,2001,0.47700000000000004
+ Zambia,2002,0.486
+ Zambia,2003,0.495
+ Zambia,2004,0.505
+ Zambia,2005,0.514
+ Zambia,2006,0.522
+ Zambia,2007,0.53
+ Zambia,2008,0.5379999999999999
+ Zambia,2009,0.546
+ Zambia,2010,0.555
+ Zambia,2011,0.563
+ Zambia,2012,0.5720000000000001
+ Zambia,2013,0.575
+ Zambia,2014,0.5770000000000001
+ Zambia,2015,0.5770000000000001
+ Zambia,2016,0.58
+ Zambia,2017,0.58
+ Zimbabwe,1990,0.423
+ Zimbabwe,1991,0.441
+ Zimbabwe,1992,0.43700000000000006
+ Zimbabwe,1993,0.44299999999999995
+ Zimbabwe,1994,0.45
+ Zimbabwe,1995,0.456
+ Zimbabwe,1996,0.46299999999999997
+ Zimbabwe,1997,0.469
+ Zimbabwe,1998,0.475
+ Zimbabwe,1999,0.48100000000000004
+ Zimbabwe,2000,0.488
+ Zimbabwe,2001,0.502
+ Zimbabwe,2002,0.493
+ Zimbabwe,2003,0.483
+ Zimbabwe,2004,0.485
+ Zimbabwe,2005,0.488
+ Zimbabwe,2006,0.495
+ Zimbabwe,2007,0.502
+ Zimbabwe,2008,0.509
+ Zimbabwe,2009,0.516
+ Zimbabwe,2010,0.523
+ Zimbabwe,2011,0.514
+ Zimbabwe,2012,0.5489999999999999
+ Zimbabwe,2013,0.55
+ Zimbabwe,2014,0.5579999999999999
+ Zimbabwe,2015,0.5579999999999999
+ Zimbabwe,2016,0.5579999999999999
+ Zimbabwe,2017,0.5579999999999999
